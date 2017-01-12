@@ -1,18 +1,25 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
+DELETE_OUTPUT_DIRECTORY = False
+# Me
 AUTHOR = u'Ömer Özak'
+AUTHORS = u'Ömer Özak'
 SITENAME = u'Economic Growth and Comparative Development'
 SITEURL = 'https://econgrowth.github.io'
 FAVICON = 'images/favicomatic/favicon.ico'
+#SITELOGO = 'images/Depression.jpg'
+#SITELOGO_SIZE = 100 
+#BANNER = '/images/cropped-escher2-990x1804.jpg'
+#BANNER_SUBTITLE = 'Ömer Özak'
+#BANNER_ALL_PAGES = True
 
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
-
 DEFAULT_LANG = u'en'
-
 DISPLAY_PAGES_ON_MENU = True
 
 # Feed generation is usually not desired when developing
