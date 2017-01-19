@@ -1,0 +1,6 @@
+[submodule "pelican-plugins"]
+	url = git@github.com:Macroeconomics/pelican-plugins.git
+	path = pelican-plugins
+[submodule "output"]
+	path = output
+	url = git@github.com:econgrowth/econgrowth.github.io.git
