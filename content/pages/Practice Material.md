@@ -4,16 +4,7 @@ Author: ozak
 Slug: Practice Material
 
 
-#Suggested Exercises in Acemoglu
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
-* Chapter 
+#Suggested Exercises 
 
 --------------------------------------
 

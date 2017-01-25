@@ -35,7 +35,7 @@ FEEDS =  (('All posts', 'feeds/all.atom.xml'),
           ('OPW', 'feeds/tag/opw.atom.xml'),)
 
 # Social widget
-SOCIAL = (('Github', 'https://github.com/Macroeconomics'),
+SOCIAL = (('Github', 'https://github.com/econgrowth'),
           #('Twitter', 'https://twitter.com/'),
           ('Linkedin', 'https://linkedin.com/in/omerozak'),
           ('Researchgate','https://www.researchgate.net/profile/Oemer_Oezak'),)
