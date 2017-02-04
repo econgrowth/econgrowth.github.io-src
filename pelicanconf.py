@@ -41,7 +41,7 @@ SOCIAL = (('Github', 'https://github.com/econgrowth'),
           ('Researchgate','https://www.researchgate.net/profile/Oemer_Oezak'),)
 
 # Github
-GITHUB_USER = 'Macroeconomics'
+GITHUB_USER = 'econgrowth'
 GITHUB_SHOW_USER_LINK = 'True'
 GITHUB_REPO_COUNT = 2
 
@@ -142,10 +142,10 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Syllabus', '/pages/Syllabus.html'),
     ('Lecture Notes', '/pages/Lecture Notes.html'),
-    ('Practice Material', '/pages/Practice Material.html'),
+    ('Reading Material', '/pages/Reading Material.html'),
     ('Computation', '/pages/Computation.html'),
     ('CV', '/pages/CV.html'),
-    ('Email', 'http://www.google.com/recaptcha/mailhide/d?6LfmLBAUAAAAADdznVp2XJ1GUaPXKYV56-VSIn5E'),
+    ('Email', 'http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=5mZN5MlTpATyB-iUqDo8FQ=='),
     )
 
 # License
