@@ -35,10 +35,10 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "V1.4."
+git commit -m "V1.5."
 git push -u origin master
 cd ..
 git add .
-git commit -m "V1.4."
+git commit -m "V1.5."
 git push -u origin master
 

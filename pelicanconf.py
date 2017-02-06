@@ -145,7 +145,8 @@ MENUITEMS = (
     ('Reading Material', '/pages/Reading Material.html'),
     ('Computation', '/pages/Computation.html'),
     ('CV', '/pages/CV.html'),
-    ('Email', 'http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=5mZN5MlTpATyB-iUqDo8FQ=='),
+    ('Contact', '/pages/Contact.html'),
+#    ('Email', 'http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=5mZN5MlTpATyB-iUqDo8FQ=='),
     )
 
 # License
