@@ -24,6 +24,11 @@ and for ``Python 3.x``
 
 I would suggest using ``Python 3.x``, since it is the latest and most uptodate version.
 
+##Parallel Computing
+One of the advantages of ``Jupyter Notebooks`` is that they allow you to work (very easily) with multiple processors using ``ipyparallel``. Once you have ``ipyparallel`` installed (automatically done for you with the scritps above), you will need to execute the following code once
+
+    ipcluster nbextension enable
+
 #Notebooks
 
 * Notebook 1: [Introduction](/IntroPython.html)
