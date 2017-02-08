@@ -8,8 +8,8 @@ Below are the lecture notes for the class. You can download the pdf's or see onl
 * [Lecture Notes 1](/pdf/FromStagnation2Growth.pdf): From Stagnation to Growth
 * [Lecture Notes 2](/pdf/MalthusianTheory.pdf): Malthusian Theory
 * [Lecture Notes 3](/pdf/DemographicTransition.pdf): Demographic Transition
-* [Lecture Notes 4](/pdf/LectureNotes4.pdf): 
-* [Lecture Notes 5](/pdf/LectureNotes5.pdf): 
+* [Lecture Notes 4](/pdf/UTF.pdf): Unified Growth Theory
+* [Lecture Notes 5](/pdf/GIS.pdf): What is GIS? My workflow with GIS
 * [Lecture Notes 6](/pdf/LectureNotes6.pdf): 
 * [Lecture Notes 7](/pdf/LectureNotes7.pdf): 
 * [Lecture Notes 8](/pdf/LectureNotes8.pdf): 
@@ -36,15 +36,15 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </iframe>
 </object>
 
-<object data="/pdf/LectureNotes4.pdf#page=1" type="application/pdf" width="640" height="480">
-<iframe src="/pdf/LectureNotes4.pdf#page=1" width="640" height="480" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/LectureNotes4.pdf">Download PDF</a>
+<object data="/pdf/UTF.pdf#page=1" type="application/pdf" width="640" height="480">
+<iframe src="/pdf/UTF.pdf#page=1" width="640" height="480" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/UTF.pdf">Download PDF</a>
 </iframe>
 </object>
 
-<object data="/pdf/LectureNotes5.pdf#page=1" type="application/pdf" width="640" height="480">
-<iframe src="/pdf/LectureNotes5.pdf#page=1" width="640" height="480" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/LectureNotes5.pdf">Download PDF</a>
+<object data="/pdf/GIS.pdf#page=1" type="application/pdf" width="640" height="480">
+<iframe src="/pdf/GIS.pdf#page=1" width="640" height="480" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/GIS.pdf">Download PDF</a>
 </iframe>
 </object>
 
