@@ -14,7 +14,7 @@ In Windows install [Visual C++ 9.0](https://www.microsoft.com/en-us/download/det
 
 In OSX download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``).
 
-Then download the following scripts ([GeoPython2env](../notebooks/GeoPython2env.yml), [GeoPython3env](../notebooks/GeoPython3env.yml)) and execute
+Then download the following scripts ([GeoPython2env](https://www.dropbox.com/s/mrr9qwyz7t6s2uu/GeoPython2env.yml?dl=0), [GeoPython3env](https://www.dropbox.com/s/38a7mcaziyzmovj/GeoPython3env.yml?dl=0)) and execute
 
     conda update conda
     conda-env create -f GeoPython2env.yml
