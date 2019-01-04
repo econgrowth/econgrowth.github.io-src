@@ -35,10 +35,9 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "V1.5.10"
+git commit -m "Updated Python 3"
 git push -u origin master
 cd ..
 git add .
-git commit -m "V1.5.10"
+git commit -m "Updated Python 3"
 git push -u origin master
-
