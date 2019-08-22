@@ -15,6 +15,9 @@ git submodule add git@github.com:econgrowth/econgrowth.github.io.git output
 # Create baseline
 pelican-quickstart
 
+# copy files
+ipython copy_content.ipy
+
 # Create content and see website
 make html && make serve
 make html && make publish
@@ -35,9 +38,9 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "Updated Python 3"
+git commit -m "Updated lecture 1"
 git push -u origin master
 cd ..
 git add .
-git commit -m "Updated Python 3"
+git commit -m "Updated lecture 1"
 git push -u origin master

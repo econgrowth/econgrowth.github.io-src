@@ -1,5 +1,5 @@
 Title: Lecture Notes
-date: 2016-12-29 13:53
+date: 2019-08-22 12:51
 Author: ozak
 Slug: Lecture Notes
 
@@ -10,12 +10,12 @@ Below are the lecture notes for the class. You can download the pdf's or see onl
 * [Lecture Notes 3](/pdf/Lecture-3-The-Demographic-Transition.pdf): Demographic Transition
 * [Lecture Notes 4](/pdf/Lecture-4-UGT-and-CD.pdf): Unified Growth Theory
 * [Lecture Notes 5](/pdf/Lecture-5-Human-Evolution-and-Growth.pdf): Human Evolution and Growth
-* [Lecture Notes 6](/pdf/GIS.pdf): What is GIS? My workflow with GIS
+* [Lecture Notes 6](/pdf/Lecture-6-GIS.pdf): What is GIS? My workflow with GIS
 * [Lecture Notes 7](/pdf/Lecture-7-Geographical-Roots-of-CD.pdf): Geographical Roots of Comparative Development
 * [Lecture Notes 8](/pdf/Lecture-8-Geographical-Origins-of-Cultural-Traits.pdf): Geographical Origins of Cultural Traits
 * [Lecture Notes 9](/pdf/Lecture-9-Origins-and-Effects-of-Language.pdf): Geographical Origins and Economic Consequences of Language Structures
-* [Lecture Notes 10](/pdf/LectureNotes10.pdf): Geographical Isolation and Comparative Development
-* [Lecture Notes 11](/pdf/Lecture-11-Genetic-Diversity-and-CD.pdf): Genetic Diversity and Comparative Development
+* [Lecture Notes 10](/pdf/Lecture-10-Geographical-Isolation-and-Development.pdf): Geographical Isolation and Comparative Development
+* [Lecture Notes 11](/pdf/Lecture-11-Genetic-Diversity-and-CD.pdf): Cultural Diversity and Comparative Development
 * [Lecture Notes 12](/pdf/Lecture-12- Population-Diversity-and-Origins-Division-of-Labor.pdf): Origins and Long-Run Consequences of the Division of Labor
 * [Lecture Notes 13](/pdf/Lecture-13-Inequality-and-Growth-A.pdf): Inequality and Growth Part A
 * [Lecture Notes 14](/pdf/Lecture-14-Inequality-and-Growth-B.pdf): Inequality and Growth Part B
