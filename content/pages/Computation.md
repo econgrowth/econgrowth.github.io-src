@@ -62,14 +62,14 @@ We can also use ``R`` within Jupyter Notebooks with the [R kernel](https://irker
 You can also install ``R`` and ``R`` packages by using ``conda``. Simply execute
 
 	conda install -c r r
-	conda install -c r r-PACAKAGE_NAME
+	conda install -c r r-PACKAGE_NAME
 
 #Notebooks
 
-* Notebook 1: Introduction [html](/IntroPython.html) [ipynb]()
-* Notebook 2: Economic Data Analysis [html](/Economic Data Analysis.html) [ipynb]()
-* Notebook 3: Dynamic Programming in Python [html](/Dynamic Programming.html) [ipynb]()
-* Notebook 4: Faster Dynamic Programming with Numba [html](/Dynamic Programming Numba.html) [ipynb]()
-* Notebook 5: GIS with QGIS [html](/GIS with QGIS.html) [ipynb]()
-* Notebook 6: GIS with Python [html](/GIS with Python.html) [ipynb]()
+* Notebook 1: Introduction [(html)](/IntroPython.html) [(ipynb)]()
+* Notebook 2: Economic Data Analysis [(html)](/Economic Data Analysis.html) [(ipynb)]()
+* Notebook 3: Dynamic Programming in Python [(html)](/Dynamic Programming.html) [(ipynb)]()
+* Notebook 4: Faster Dynamic Programming with Numba [(html)](/Dynamic Programming Numba.html) [ipynb]()
+* Notebook 5: GIS with QGIS [(html)](/GIS with QGIS.html) [(ipynb)]()
+* Notebook 6: GIS with Python [(html)](/GIS with Python.html) [(ipynb)]()
 * Notebook 7: 
