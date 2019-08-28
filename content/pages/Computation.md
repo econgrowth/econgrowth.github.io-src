@@ -5,14 +5,41 @@ date: 2016-12-29 13:53
 Tags: Computation, IPython
 Author: Ömer Özak
 
-We will be using (I)Python as our programming language. In order to use some of the material available on this website and to share your material with others you should create a [<i class="fa fa-github fa-1x"></i>GitHub](http://github.com/) account for yourself. This will be useful to you in the future to keep track of changes when you are writing papers. I also recommend creating a [<i class="fa fa-bitbucket fa-1x"></i>Bitbucket](https://bitbucket.org/) account, which has similar functionality, but allows you to have unlimited private repositories for personal use. Additionally, I suggest you read [Gentzkow & Shapiro's *Code and Data for the Social Sciences: A Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) to familiarize yourself with good practices in coding and statistical analysis. We will cover additional topics in class.
+We will be using (I)Python as our programming language and QGIS for basic GIS exploration. In order to use some of the material available on this website and to share your material with others you should create a [<i class="fa fa-github fa-1x"></i>GitHub](http://github.com/) account for yourself. This will be useful to you in the future to keep track of changes when you are writing papers. I also recommend creating a [<i class="fa fa-bitbucket fa-1x"></i>Bitbucket](https://bitbucket.org/) account, which has similar functionality, but allows you to have unlimited private repositories for personal use. Additionally, I suggest you read [Gentzkow & Shapiro's *Code and Data for the Social Sciences: A Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) to familiarize yourself with good practices in coding and statistical analysis. We will cover additional topics in class.
 
+---
+#Installing QGIS
+Download and install QGIS from their [website](https://qgis.org/en/site/forusers/download.html). 
+
+---
+#MacOS
+###Homebrew
+On ``MacOS`` you can also use [Homebrew](https://brew.sh/), which is an excellent tool for installing all kinds of open source software. First, download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``). Second, install ``Homebrew``
+
+	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	
+Third, install ``qgis``
+
+	brew tap osgeo/osgeo4mac
+	brew install qgis
+
+There are many tools that can be installed via ``Homebrew`` whenever needed. Try it out!
+
+###iTerm2
+I highly recommend using [iTerm2](https://www.iterm2.com/) instead of the terminal that comes with ``OSX``. It is custumizable and very powerful. 
+
+---
+#Text Editor
+
+You should have a good text editor, which hopefully has syntax highlighting for various languages, especially for ``python``, ``R`` and ``Stata``. I personally recommend [atom](https://atom.io/), which is free, custimizable and very flexible.
+
+---
 #Installing (I)Python & Jupyter
 The easiest and most convenient way to install a working version of IPython with all the required packages and tools is using [Continuum's Anaconda Distribution](https://www.anaconda.com/distribution/). You can install following the instructions in that website, or if you can just run [this script (Mac/Linux)](https://www.dropbox.com/s/6st528ethbkmvv2/CondaInstall.sh?dl=0). After installing the latest version of Anaconda, add the ``Anaconda/bin`` directory to your ``PATH`` variable. 
 
 In Windows install [Visual C++ 9.0](https://www.microsoft.com/en-us/download/details.aspx?id=44266), [Visual C++ 14](https://msdn.microsoft.com/en-us/library/hh567368.aspx) and [Microsoft MPI6](https://www.microsoft.com/en-us/download/details.aspx?id=47259). 
 
-In OSX download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``).
+In ``MACOS`` download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``).
 
 Then download one of the following scripts 
 
@@ -64,6 +91,40 @@ You can also install ``R`` and ``R`` packages by using ``conda``. Simply execute
 	conda install -c r r
 	conda install -c r r-PACKAGE_NAME
 
+## Running Stata or R in Python
+We can also use ``Stata`` or ``R`` directly within ``Python``. You only need to use the ``%magic`` for each after installing the required packages. For example for ``Stata`` you need  [``ipystata``](https://github.com/TiesdeKok/ipystata). Install by executing
+
+	pip install ipystata
+	
+Then in ``jupyter`` execute
+
+	import ipystata 
+	from ipystata.config import config_stata
+	config_stata('Path to your Stata executable')  
+
+Once configured you can use the ``%%stata`` magic. E.g.
+
+	In[1]: import ipystata  
+	In[2]: %%stata  
+   		    display "Hello, I am printed in Stata."  
+	
+
+More info in the [``ipystata`` website](https://github.com/TiesdeKok/ipystata).
+
+Similarly, we can use ``R`` using [``rpy2``](https://rpy2.bitbucket.io/). Install by executing
+
+	pip install rpy2
+	
+Then in jupyter execute
+
+	In [1]: %load_ext rpy2.ipython
+	In [2]: %%R
+
+			R.version
+
+More info in the [``rpy2`` website](https://rpy2.bitbucket.io/).
+
+---
 #Notebooks
 
 * Notebook 1: Introduction [(html)](/IntroPython.html) [(ipynb)]()

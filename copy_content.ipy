@@ -36,9 +36,6 @@ for i in slides:
     j = i.replace(path, '')
     j = j[j.find('/')+1:]
     print(j)
-    j = int(j)
-    if j>4:
-        j -= 1
-    j = pathout + 'LectureNotes' + str(j) + '.pdf'
+    j = pathout + j
     print(j)
     copyfile(i, j)
