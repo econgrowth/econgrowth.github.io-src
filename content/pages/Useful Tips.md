@@ -1,0 +1,50 @@
+Title: Useful Tips & Resources
+date: 2016-12-29 13:53
+Author: ozak
+Slug: Useful Tips
+
+---
+#Writing Referee Reports
+
+* Berk, Jonathan, Campbell R. Harvey, and David
+A. Hirshleifer (2017). ["How to Write an Effective Referee Report
+and Improve the Scientific Review Process"](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.31.1.231) , Journal of Economic Perspectives:31(1), 231–244. 
+* Berk, Jonathan, Campbell R. Harvey, and David
+A. Hirshleifer (2016). ["Preparing a Referee Report: Guidelines and Perspectives".](https://ssrn.com/abstract=2547191)
+* Hamermesh, Daniel S. 1992. [“The Young 
+Economist’s Guide to Professional Etiquette.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.6.1.169)
+Journal of Economic Perspectives 6(1): 162–79.
+* Hamermesh, Daniel S. 1994. [“Facts and Myths
+about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Journal of Economic Perspectives
+8(1): 153–63.
+
+---
+#Writing Papers
+* Cochrane, J. (2005). ["Writing Tips for Ph. D. Students"](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
+* Dudenhefer, P. (2009). ["A Guide to Writing in Economics"](http://lupus.econ.duke.edu/ecoteach/undergrad/manual.pdf)
+* Nikolov, P. (2013). ["Writing Tips For Economcis Research papers"](http://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
+* Shapiro, J. ["Four Steps to an Applied Micro Paper"](https://www.dropbox.com/s/h4b8xq18rk0yj72/foursteps.pdf?dl=0)
+
+---
+# Slides & Presentation
+* Meager, R. (2017). ["Public Speaking for Academic Economists"](https://www.dropbox.com/s/vvzwjnjfa0yjqro/public_speaking_for_academic_economists.pdf?dl=0)
+* Shapiro, J. ["How to Give an Applied Micro Talk: Unauthoritative Notes"](https://www.dropbox.com/s/yr7676cm7ekelbp/applied_micro_slides.pdf?dl=0)
+
+---
+# Editorial Suggestions
+* Interview with JEEA managing editor [Juuso Välimäki](https://academic.oup.com/jeea/pages/ask_the_editor)
+* Kwan Choi's [How to Publish in (Top) Journals](http://www3.nccu.edu.tw/~jthuang/publish.pdf) (a bit dated, but still useful)
+
+---
+# Resources
+* [AEA-RFE](https://www.aeaweb.org/rfe/showCat.php?cat_id=13) Resources for Economists on the Internet
+* Finding papers and keeping up with research
+	* [Google Scholar](https://scholar.google.com/): Start here to find papers of interest for you. Once you find one, look at papers that cite that one.
+	* [Ideas](https://ideas.repec.org/): Repository of economic papers (published and unpublished), books, software, etc.
+	* [New Economic Papers Mailists](http://nep.repec.org/): Subscribe to your area of interest to keep up with new working papers
+	* [Social Science Research Network (SSRN)](https://www.ssrn.com): Find papers and subsribe to mailing lists of interest, e.g. NBER
+
+---
+# Software
+* [Tikz Cookbook](https://sites.google.com/site/kochiuyu/Tikz) for LaTeX figures.
+* Rochelle Terman's [Introduction To Computational Tools And Techniques For Social Research](https://github.com/rochelleterman/PS239T) online course. Check out her [other repositories](https://github.com/rochelleterman?tab=repositories).

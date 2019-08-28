@@ -38,9 +38,9 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "Updated home & computation"
+git commit -m "Updated tips & computation"
 git push -u origin master
 cd ..
 git add .
-git commit -m "Updated  home & computation"
+git commit -m "Updated tips & computation"
 git push -u origin master

@@ -142,8 +142,8 @@ DISPLAY_PAGES_ON_MENU = False
 MENUITEMS = (
     ('Syllabus', '/pages/Syllabus.html'),
     ('Lecture Notes', '/pages/Lecture Notes.html'),
-    ('Reading Material', '/pages/Reading Material.html'),
     ('Computation', '/pages/Computation.html'),
+    ('Useful Tips', '/pages/Useful Tips.html'),
     ('CV', '/pages/CV.html'),
     ('Contact', '/pages/Contact.html'),
 #    ('Email', 'http://www.google.com/recaptcha/mailhide/d?k=01Mcn4h5MJg-nEwpTtN4oQVg==&c=5mZN5MlTpATyB-iUqDo8FQ=='),

@@ -2,8 +2,9 @@ Title:
 date: 2016-12-29 13:53
 URL: 
 save_as: index.html
-Authors: Ömer Özak
-Summary: Home page for Economic Growth and Comparative Development Courses
+Author: Ömer Özak
+Slug: Homepage
+Summary: Homepage for Economic Growth and Comparative Development Courses
 
 <!--
 |  | |
