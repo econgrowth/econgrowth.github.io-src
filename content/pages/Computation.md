@@ -55,7 +55,13 @@ and execute
     #conda-env create -f GeoPython2env.yml
     #conda-env create -f GeoPython3env.yml
     
-This will create an environment with all the packages you will require for this course (and more!). To start using one of the environment you will need to exectute the following command
+This should create an environment with all the packages you will require for this course (and more!). If this fails, which seems to happen often due to version conflicts, execute
+
+	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill 
+
+This should create an environment with some of the packages we need. We can always install others down the road.
+
+To start using one of the environment you will need to exectute the following command
 
     source activate GeoPython3env
 
@@ -63,7 +69,12 @@ or for ``Python 2.x``
 
     source activate GeoPython2env
 
-I would suggest using ``GeoPython3env``, since it is the latest and most uptodate version.
+I would suggest using ``GeoPython3env``, since it is the latest and most up-to-date version (I'll try to keep adding new versions as time passes).
+
+####MacOS
+Instead of the previous options, you can download [this file](https://www.dropbox.com/s/8hz368xsh48390i/GeoPython3env-spec-file.txt?dl=0) and execute
+
+	conda create --name GeoPython3env --file GeoPython3env-spec-file.txt
 
 ##Parallel Computing
 One of the advantages of ``Jupyter Notebooks`` is that they allow you to work (very easily) with multiple processors using ``ipyparallel``. Once you have ``ipyparallel`` installed (automatically done for you with the scritps above), you will need to execute the following code once
