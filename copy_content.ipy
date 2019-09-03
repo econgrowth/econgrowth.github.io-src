@@ -39,3 +39,13 @@ for i in slides:
     j = pathout + j
     print(j)
     copyfile(i, j)
+
+path_ipynb = pathout + '../notebooks/'
+pathout_ipynb = pathout + '../../output/notebooks/'
+notebooks = find('*ipynb', path_ipynb)
+for i in notebooks:
+    if i.find('checkpoints')==-1:
+        j = i.replace(path_ipynb, pathout_ipynb)
+        print(i)
+        print(j)
+        copyfile(i, j)

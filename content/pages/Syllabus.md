@@ -32,10 +32,10 @@ Grading will be based mainly on a research proposal/paper. Prior to this you hav
 If you do not have access to the papers consider using the [Unpaywall extension for your browser](https://unpaywall.org/) or [download this folder](https://www.dropbox.com/sh/hnmt6fn2a3crfb1/AACoJsbCKIUQlmUQHwnK3D6Va?dl=0) (you need the password).---#From Stagnation to Growth:
 ##The evolution of economies from the dawn of human civilization to the modern era  * ** Galor, O. 2011 Ch. 1 & 2
   * ** Galor, O., 2005, "[From Stagnation to Growth: Unified Growth Theory](https://www.brown.edu/Departments/Economics/Faculty/Oded_Galor/pdf/Galor-Handbook%20of%20Economic%20Growth%20-Reprint.pdf)" Handbook of Economic Growth, North-Holland
-  * Mokyr J. and J. Voth, 2006, [Understanding Growth in Europe, 1700-1870: Theory and Evidence"](http://atar.mscc.huji.ac.il/%7Emelchior/DEGIT/mokyr.pdf)
+  * ** Diamond, Jared, 1997, [Guns, Germs, and Steel: The Fates of Human Societies.](https://smile.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326) (Part 1)
   * Neal, L. and Cameron, R., 2015, [A Concise Economic History of the World from Paleolithic Times to the Present.](https://smile.amazon.com/Concise-Economic-History-World-Paleolithic/dp/0199989761) Oxford University Press.
   * Mokyr, J., 1992, [The Lever of Riches: Technological Creativity and Economic Progress.](https://smile.amazon.com/Lever-Riches-Technological-Creativity-Economic/dp/0195074777) Oxford University Press
-  * ** Diamond, Jared, 1997, [Guns, Germs, and Steel: The Fates of Human Societies.](https://smile.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326) (Part 1)
+  * Mokyr J. and J. Voth, 2006, [Understanding Growth in Europe, 1700-1870: Theory and Evidence"](http://atar.mscc.huji.ac.il/%7Emelchior/DEGIT/mokyr.pdf)
   * Livi-Bacci, M., 1997, [A Concise History of World Population](https://smile.amazon.com/Concise-History-World-Population/dp/1119029279/), Oxford: Blackwell.
 ---#The Malthusian Epoch: Theory and Empirics
 
@@ -188,9 +188,10 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Olsson, O. and Hibbs, D., 2005, "[Biogeography and long-run economic development](https://www.sciencedirect.com/science/article/pii/S0014292103001016)," European Economic Review, Elsevier, vol. 49(4), pages 909-938, May.
 * Thompson, W.R. and Sakuwa, K., 2013. "[Was Wealth Really Determined in 8000 BCE, 1000 BCE, 0 CE, or Even 1500 CE?](https://escholarship.org/uc/item/64q20336)". Cliodynamics, 4(1).* Voigtländer, N. and Voth, H.J., 2012. "[Persecution perpetuated: the medieval origins of anti-Semitic violence in Nazi Germany]( https://www.jstor.org/stable/23251987)". The Quarterly Journal of Economics, 127(3), pp.1339-1392. [(Data)](http://www.anderson.ucla.edu/faculty_pages/nico.v/Research/Persecution_Perpetuated_QJE_Replicate.rar)* Cook, C.J., 2014. "[The role of lactase persistence in precolonial development](https://www.jstor.org/stable/44114707)". Journal of Economic Growth, 19(4), pp.369-406. [(Data)](https://static-content.springer.com/esm/art%3A10.1007%2Fs10887-014-9109-5/MediaObjects/10887_2014_9109_MOESM2_ESM.zip)---#The Neolithic Revolution
 ##Origins
-* Ashraf Quamrul and Michalopoulos Stelios (2015), "Climatic Fluctuations and the Diffusion of Agriculture", Review of Economics and Statistics, July 2015, 97(3): 589-609.
-* Diamond Jared, "Guns, Germs, and Steel: The Fates of Human Societies", (2014), W.W. Norton & Company.
-* Hibbs, Douglas and Ola Olsson "Geography, Biogeography and Why Some Countries Are Rich and Others Poor", Proceedings of the National Academy of Sciences of the United States. (PNAS), vol. 101, No. 10, 2004, 3715-3740* *Matranga Andrea, "Climate-driven Technical Change: Seasonality and the Invention of Agriculture", UPF Working Paper 2014.##Consequences
+* ** Diamond, Jared, 1997, [Guns, Germs, and Steel: The Fates of Human Societies.](https://smile.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326) (Part 1)
+* Hibbs, D.A. and Olsson, O., 2004. "[Geography, biogeography, and why some countries are rich and others are poor](https://www.jstor.org/stable/3371545)". Proceedings of the national Academy of sciences, 101(10), pp.3715-3720.* Zeder, M.A., 2008. "[Domestication and early agriculture in the Mediterranean Basin: Origins, diffusion, and impact](https://www.pnas.org/content/pnas/105/33/11597.full.pdf). Proceedings of the national Academy of Sciences, 105(33), pp.11597-11604.
+* Ashraf, Q. and Michalopoulos, S., 2015. "[Climatic fluctuations and the diffusion of agriculture](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00461)". Review of Economics and Statistics, 97(3), pp.589-609. 
+* Matranga, A., 2017. "[The Ant and the Grasshopper: Seasonality and the Invention of Agriculture](https://www.dropbox.com/s/3w5indcezgs9c5b/NeolithicQJE.pdf?dl=0)".##Consequences
 * Ashraf Quamrul and Oded Galor "Dynamics and Stagnation in the Malthusian Epoch", American Economic Review (2011), 101(5), pp. 2003-2041
 * Stelios Michalopoulos, Louis Putterman and David Weil, 2016 "The Influence of Ancestral Working Lifeways on Individual Economic Outcomes in Sub-Saharan Africa", NBER w21907
 * Putterman, Louis. 2008. "Agriculture, Diffusion, and Development: Ripple Effects of the Neolithic Revolution." Economica, 75(300): 729-748

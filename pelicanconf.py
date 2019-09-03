@@ -66,9 +66,9 @@ EXTRA_PATH_METADATA = {
 
 READERS = {'html': None}
 
-
-CODE_DIR = 'downloads/code'
-NOTEBOOK_DIR = 'downloads/notebooks'
+CODE_DIR = 'notebooks/'
+NOTEBOOK_DIR = 'notebooks/'
+IPYNB_NB_SAVE_AS = 'notebooks/'
 
 # Technical stuff
 # THEME

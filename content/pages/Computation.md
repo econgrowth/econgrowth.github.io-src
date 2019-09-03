@@ -57,7 +57,7 @@ and execute
     
 This should create an environment with all the packages you will require for this course (and more!). If this fails, which seems to happen often due to version conflicts, execute
 
-	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill 
+	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill xlrd pandas_datareader 
 
 This should create an environment with some of the packages we need. We can always install others down the road.
 
@@ -138,10 +138,10 @@ More info in the [``rpy2`` website](https://rpy2.bitbucket.io/).
 ---
 #Notebooks
 
-* Notebook 1: Introduction [(html)](/IntroPython.html) [(ipynb)]()
-* Notebook 2: Economic Data Analysis [(html)](/Economic Data Analysis.html) [(ipynb)]()
-* Notebook 3: Dynamic Programming in Python [(html)](/Dynamic Programming.html) [(ipynb)]()
-* Notebook 4: Faster Dynamic Programming with Numba [(html)](/Dynamic Programming Numba.html) [ipynb]()
-* Notebook 5: GIS with QGIS [(html)](/GIS with QGIS.html) [(ipynb)]()
-* Notebook 6: GIS with Python [(html)](/GIS with Python.html) [(ipynb)]()
+* Notebook 1: Introduction [(html)](/IntroPython.html) [(ipynb)](/notebooks/IntroPython.ipynb)
+* Notebook 2: Economic Data Analysis [(html)](/Economic Data Analysis.html) [(ipynb)](/notebooks/EconomicDataAnalysis.ipynb)
+* Notebook 3: Dynamic Programming in Python [(html)](/Dynamic Programming.html) [(ipynb)](/notebooks/DynamicProgramming.ipynb)
+* Notebook 4: Faster Dynamic Programming with Numba [(html)](/Dynamic Programming Numba.html) [ipynb](Faster Computation with Numba.ipynb)
+* Notebook 5: GIS with QGIS [(html)](/GIS with QGIS.html) [(ipynb)](/notebooks/GIS with Python.ipynb)
+* Notebook 6: GIS with Python [(html)](/GIS with Python.html) [(ipynb)](/notebooks/GIS.ipynb)
 * Notebook 7: 
