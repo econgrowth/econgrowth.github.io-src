@@ -213,5 +213,20 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Bleakley, H., 2007. "[Disease and development: evidence from hookworm eradication in the American South](https://www.jstor.org/stable/25098838)". The quarterly journal of economics, 122(1), pp.73-117.
 * Cook, C.J., 2015. "[The natural selection of infectious disease resistance and its effect on contemporary health](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00509?casa_token=hQJIXkEsDL0AAAAA:IzawnOJdVW4xzh0r_GM7boaAzwrK5WA5KewH406U6OdoEQ0vYxoPeoKl7Dh4EdG5IyQdVXT09YBm)". Review of Economics and Statistics, 97(4), pp.742-757.
 
-#Other Topics
+---#Other Topics
+
+---
+#Presentations
+## Intergenerational Transmission of Culture (K.M)
+* Fulford, S., Petkov, I. and Schiantarelli, F., 2018. "[Does it matter where you came from? Ancestry composition and economic performance of US counties, 1850-2010](https://petkov33.github.io/assets/fps_ancestry.pdf)".
+* Burchardi, K.B., Chaney, T. and Hassan, T.A., 2018. "[Migrants, ancestors, and foreign investments](https://academic.oup.com/restud/article/86/4/1448/5078456)". The Review of Economic Studies, 86(4), pp.1448-1486. [(Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/86/4/10.1093_restud_rdy044/1/rdy044_supplementary_data.zip?Expires=1567612828&Signature=EOIfJY2pVU14saSztj5LXxvfbMTlB3yZ~CeN9RFHrnNUgKla~pPstXPf1NLc79D5s5B-oYpdG0kVIqlMd4251goqeCB91INwqO734DaNVMLJMxq2iBxRZ4xZwoGEiN7FUKpxWgamaOd2f~eSAvDjeyYrMBBIuiCDsVkrASuu4nYgJxmQKz74aKd-itNUHXFVUilxeLMaUzs1dm5SLnHvtaqXMNuFG0Q0aH0OA41TKZiRSRtU7o08dYCmCPLnvlW~HNM9uPzVLKBOS82eNLAV0F6jiSg5-RHdsczQPnoBK9uJoGmsbIjC3hgexwcSkZPi7OPGTvl-3IbxbZacoFRfXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+* Burchardi, K.B., Chaney, T., Hassan, T.A., Tarquinio, L. and Terry, S.J., 2019. "[Immigration, Innovation, and Growth]()".
+* Docquier, F., Turati, R., Valette, J. and Vasilakis, C., 2018. Birthplace diversity and economic growth: Evidence from the US states in the Post-World War II period.
+* Rodríguez-Pose, A. and von Berlepsch, V., 2018. "[Does population diversity matter for economic development in the very long term? Historic migration, diversity and county wealth in the US](https://link.springer.com/article/10.1007/s10680-018-9507-z)". European Journal of Population, pp.1-39.
+* Hatton, T.J. and Ward, Z., 2018. "[International Migration in the Atlantic Economy 1850–1940](https://link.springer.com/content/pdf/10.1007/978-3-642-40458-0_41-1.pdf)". Handbook of Cliometrics, pp.1-29.
+* Giavazzi, F., Petkov, I. and Schiantarelli, F., 2019. "[Culture: Persistence and evolution](https://doi.org/10.1007/s10887-019-09166-2)". Journal of Economic Growth, 24(2), pp.117-154. [(Supplemental Material)](https://link.springer.com/article/10.1007%2Fs10887-019-09166-2#SupplementaryMaterial)
+
+## Religion, Culture and Political Economy (P.F)
+
+## Conflict
 ____________________________________________________________________________The dates and information provided in this document are for information and planning purposes only.  The dates are subject to change based on the material covered and unexpected circumstances that require changing the schedule.

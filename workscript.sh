@@ -22,7 +22,7 @@ ipython copy_content.ipy
 make html && make serve
 make html && make publish && make serve
 # If it is ok
-make publish
+make html && make publish
 
 # Publish and git commit
 cd output
@@ -38,9 +38,9 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "Updated notebook intro python"
+git commit -m "Updated python packages"
 git push -u origin master
 cd ..
 git add .
-git commit -m "Updated notebook intro python"
+git commit -m "Updated python packages"
 git push -u origin master
