@@ -121,6 +121,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 ##Religion
 
 * Iannaccone, L.R., 1998. "[Introduction to the Economics of Religion](https://www.jstor.org/stable/2564806)". Journal of economic literature, 36(3), pp.1465-1495.
+* McCleary, R.M. and Barro, R.J., 2006. "[Religion and economy](https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.20.2.49)". Journal of Economic perspectives, 20(2), pp.49-72.
 * Barro, R. and McCleary, R., 2003. "[Religion and Economic Growth across Countries](https://www.jstor.org/stable/1519761)". American Sociological Review.
 * Durlauf, S.N., Kourtellos, A. and Tan, C.M., 2012. "[Is God in the details? A reexamination of the role of religion in economic growth](https://www.jstor.org/stable/23355924)". Journal of Applied Econometrics, 27(7), pp.1059-1075.
 * Bentzen, J. S., 2019. "[Acts of God? Religiosity and natural disasters across subnational world districts]()". The Economic Journal, 129(622), pp.2295-2321. [(Replication data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ej/129/622/10.1093_ej_uez008/1/uez008_replication_package.zip?Expires=1567005063&Signature=aSkj8scUa5jiwSp08L2tsHN9An1sG1ZwzwO4P0I7xnFk~M1UYQllN5x-DNovsiB3r5JtiDqUdl3xRiO26YnKdcUQ22hCrnvmLytbM5dOpYPBBZtwboCGbnzUQvx2QWAB6fuqEnEFjErPtKAQZ3Fb599DdMBcGvfSpmbSr29Ab2HYnsZjb6UcCkzJtMDA-7IsGAkRubjV2NSfKdU25zpfPLuLp~qiYVGna7QAaw4KPeTfXio8l045u-xGKTLkXkCL-Lw~r4MZQhLfdzSah1foK3fH8QI83psdjJrn9567kZxG-6VnEMNKfV6-KRGXT1wS5rwA~KCDjmTvJqGxm6nu-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)* Glaeser, E.L., Ponzetto, G.A. and Shapiro, J.M., 2005. [Strategic extremism: Why Republicans and Democrats divide on religious values](https://www.jstor.org/stable/25098772). The Quarterly journal of economics, 120(4), pp.1283-1330.
@@ -225,8 +226,13 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Rodríguez-Pose, A. and von Berlepsch, V., 2018. "[Does population diversity matter for economic development in the very long term? Historic migration, diversity and county wealth in the US](https://link.springer.com/article/10.1007/s10680-018-9507-z)". European Journal of Population, pp.1-39.
 * Hatton, T.J. and Ward, Z., 2018. "[International Migration in the Atlantic Economy 1850–1940](https://link.springer.com/content/pdf/10.1007/978-3-642-40458-0_41-1.pdf)". Handbook of Cliometrics, pp.1-29.
 * Giavazzi, F., Petkov, I. and Schiantarelli, F., 2019. "[Culture: Persistence and evolution](https://doi.org/10.1007/s10887-019-09166-2)". Journal of Economic Growth, 24(2), pp.117-154. [(Supplemental Material)](https://link.springer.com/article/10.1007%2Fs10887-019-09166-2#SupplementaryMaterial)
+* Dohmen, T., Falk, A., Huffman, D. and Sunde, U., 2011. "[The intergenerational transmission of risk and trust attitudes](https://doi.org/10.1093/restud/rdr027)". The Review of Economic Studies, 79(2), pp.645-677. [(Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/79/2/10.1093_restud_rdr027/1/rdr027-79_2_Sunde_Supplementary_Material.zip?Expires=1567097463&Signature=CkaRVxNbKXjLqgVBgey5RNCBWp9ZVDMXBBCuOhdcZg4NrQs11Ef6co0xOMdQ0GqT-hsFX-QnoxtVtaJ7MybLm18tbwDpAK718ea5rwhdkR8~Vx6tML9UxfzIzANZbSAy6AAohkVrx~Huo9JXu6fGKflrRjxbPit1GwNuFcTYTzjUqBeQdRn7xOvntsEKQwLiTECKmaH-bVFb4mOeblVLLJyxkvEvtngrdsNwArUwWCsgZMxdH4GhACDkZuI5AXeuCOzj2YX64DIuRXAQAsOYf3VCop-R6rqzYkgwBGTOppta7od7k9PQS1X9gqL7mL1eSdLBEHtU~9tleoU8s1LwgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 ## Religion, Culture and Political Economy (P.F)
 
 ## Conflict
-____________________________________________________________________________The dates and information provided in this document are for information and planning purposes only.  The dates are subject to change based on the material covered and unexpected circumstances that require changing the schedule.
+
+---
+# Handbooks & Surveys
+* [Handbook of Economic Growth](https://www.sciencedirect.com/handbook/handbook-of-economic-growth)
+* [Handbook of Cliometrics](https://link.springer.com/referencework/10.1007/978-3-642-40458-0)____________________________________________________________________________The dates and information provided in this document are for information and planning purposes only.  The dates are subject to change based on the material covered and unexpected circumstances that require changing the schedule.
