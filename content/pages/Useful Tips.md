@@ -45,6 +45,12 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 	* [Social Science Research Network (SSRN)](https://www.ssrn.com): Find papers and subsribe to mailing lists of interest, e.g. NBER
 
 ---
+# Reading Lists & Syllabi
+* [Mark Koyama - The Political Economy of Religion & State
+](https://www.dropbox.com/s/m4ie9derh11e6cc/Economics%20of%20State%20and%20Religion.pdf?dl=0)
+* [Joseph Henrich & Richard Wrangham - Human Nature](https://henrich.fas.harvard.edu/files/henrich/files/syllabus_human_nature_2018_final.pdf)
+
+---
 # Software
 * [Tikz Cookbook](https://sites.google.com/site/kochiuyu/Tikz) for LaTeX figures.
 * Rochelle Terman's [Introduction To Computational Tools And Techniques For Social Research](https://github.com/rochelleterman/PS239T) online course. Check out her [other repositories](https://github.com/rochelleterman?tab=repositories).

@@ -29,7 +29,7 @@ Grading will be based mainly on a research proposal/paper. Prior to this you hav
 The referee reports and presentation should cover the following: (i) Why is the paper important (or why not)? (ii) An overview of the core contributions of the paper. (iii) What you liked or did not like about the paper. (iv) How could be improved, what other questions may be asked (v) how the paper is connected to others in the course. I will provide more guidance on this in class.
 ---#Tentative Course Outline
 
-If you do not have access to the papers consider using the [Unpaywall extension for your browser](https://unpaywall.org/) or [download this folder](https://www.dropbox.com/sh/hnmt6fn2a3crfb1/AACoJsbCKIUQlmUQHwnK3D6Va?dl=0) (you need the password).---#From Stagnation to Growth:
+If you do not have access to the papers consider using the [Unpaywall extension for your browser](https://unpaywall.org/), [Sci Hub](https://sci-hub.tw) or [download this folder](https://www.dropbox.com/sh/hnmt6fn2a3crfb1/AACoJsbCKIUQlmUQHwnK3D6Va?dl=0) (you need the password).---#From Stagnation to Growth:
 ##The evolution of economies from the dawn of human civilization to the modern era  * ** Galor, O. 2011 Ch. 1 & 2
   * ** Galor, O., 2005, "[From Stagnation to Growth: Unified Growth Theory](https://www.brown.edu/Departments/Economics/Faculty/Oded_Galor/pdf/Galor-Handbook%20of%20Economic%20Growth%20-Reprint.pdf)" Handbook of Economic Growth, North-Holland
   * ** Diamond, Jared, 1997, [Guns, Germs, and Steel: The Fates of Human Societies.](https://smile.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326) (Part 1)
@@ -102,6 +102,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 ---#Culture
 * ** Alesina, A. and Giuliano, P., 2015. "[Culture and institutions](https://www.jstor.org/stable/pdf/43927694.pdf)". Journal of Economic Literature, 53(4), pp.898-944.
 * ** Spolaore, E. and Wacziarg, R., 2014. "[Long-term barriers to economic development](https://www.sciencedirect.com/science/article/pii/B9780444535382000034)". In Handbook of economic growth (Vol. 2, pp. 121-176). Elsevier.* ** Guiso, L., Sapienza, P. and Zingales, L., 2009. "[Cultural biases in economic exchange?](https://academic.oup.com/qje/article-pdf/124/3/1095/5377740/124-3-1095.pdf)". The Quarterly Journal of Economics, 124(3), pp.1095-1131.
+* ** Fernández, R., 2011. "[Does culture matter?](https://doi.org/10.1016/B978-0-444-53187-2.00011-5). In Handbook of social economics (Vol. 1, pp. 481-510). North-Holland.
 * ** Galor, O. and Ö. Özak 2016 "[The Agricultural Origins of Time Preference](https://www.jstor.org/stable/43956943)". American Economic Review:  106(10):3064–3103 [(Replication data)](https://www.aeaweb.org/content/file?id=2366) [(Caloric Suitability Index)](http://ozak.github.io/Caloric-Suitability-Index/)
 * Alesina, A. , Giuliano, P. and Nunn, N. 2013, "[On the Origins of Gender Roles: Women and the Plough](https://scholar.harvard.edu/files/nunn/files/alesina_giuliano_nunn_qje_2013.pdf)," The Quarterly Journal of Economics, vol. 128(2), pages 469-530 [(Replication data)](https://scholar.harvard.edu/files/nunn/files/alesina_giuliano_nunn_qje_2013_replication_materials.zip)
 * ** Galor O., Ö. Özak and A. Sarid. 2018, "[Geographical Roots of the Coevolution of Cultural and Linguistic Traits](https://osf.io/me2g7/)
@@ -122,6 +123,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 
 * Iannaccone, L.R., 1998. "[Introduction to the Economics of Religion](https://www.jstor.org/stable/2564806)". Journal of economic literature, 36(3), pp.1465-1495.
 * McCleary, R.M. and Barro, R.J., 2006. "[Religion and economy](https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.20.2.49)". Journal of Economic perspectives, 20(2), pp.49-72.
+* Aldashev, G. and Platteau, J.P., 2014. "[Religion, culture, and development](https://www.sciencedirect.com/science/article/pii/B9780444537768000210)". In Handbook of the Economics of Art and Culture (Vol. 2, pp. 587-631). Elsevier.
 * Barro, R. and McCleary, R., 2003. "[Religion and Economic Growth across Countries](https://www.jstor.org/stable/1519761)". American Sociological Review.
 * Durlauf, S.N., Kourtellos, A. and Tan, C.M., 2012. "[Is God in the details? A reexamination of the role of religion in economic growth](https://www.jstor.org/stable/23355924)". Journal of Applied Econometrics, 27(7), pp.1059-1075.
 * Bentzen, J. S., 2019. "[Acts of God? Religiosity and natural disasters across subnational world districts]()". The Economic Journal, 129(622), pp.2295-2321. [(Replication data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ej/129/622/10.1093_ej_uez008/1/uez008_replication_package.zip?Expires=1567005063&Signature=aSkj8scUa5jiwSp08L2tsHN9An1sG1ZwzwO4P0I7xnFk~M1UYQllN5x-DNovsiB3r5JtiDqUdl3xRiO26YnKdcUQ22hCrnvmLytbM5dOpYPBBZtwboCGbnzUQvx2QWAB6fuqEnEFjErPtKAQZ3Fb599DdMBcGvfSpmbSr29Ab2HYnsZjb6UcCkzJtMDA-7IsGAkRubjV2NSfKdU25zpfPLuLp~qiYVGna7QAaw4KPeTfXio8l045u-xGKTLkXkCL-Lw~r4MZQhLfdzSah1foK3fH8QI83psdjJrn9567kZxG-6VnEMNKfV6-KRGXT1wS5rwA~KCDjmTvJqGxm6nu-w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)* Glaeser, E.L., Ponzetto, G.A. and Shapiro, J.M., 2005. [Strategic extremism: Why Republicans and Democrats divide on religious values](https://www.jstor.org/stable/25098772). The Quarterly journal of economics, 120(4), pp.1283-1330.
@@ -129,7 +131,6 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Buser, T., 2015. "[The effect of income on religiousness](https://www.jstor.org/stable/24739051)". American Economic Journal: Applied Economics, 7(3), pp.178-95. [(Data)](https://www.aeaweb.org/aej/app/data/0703/2014-0162_data.zip)
 * Becker, S.O. and Woessmann, L., 2013. "[Not the opium of the people: Income and secularization in a panel of Prussian counties](https://www.jstor.org/stable/23469790)". American Economic Review, 103(3), pp.539-44. [(Data)](https://www.aeaweb.org/aer/data/may2013/P2013_0117_data.zip)
 * Cojoc, A., 2010. "[After the fall: the impact of government regulation on church attendance in Eastern Europe, 1990–2004](https://www.jstor.org/stable/40541985)". Public Choice, 142(3-4), pp.485-496.
-
 ##Trust* Algan, Y. and Cahuc, P., 2010. "[Inherited trust and growth](https://www.jstor.org/stable/41038755)". American Economic Review, 100(5), pp.2060-92. [(Data)](https://www.aeaweb.org/aer/data/dec2010/20080054_data.zip)
 * Algan, Y. and Cahuc, P., 2014. Trust, growth, and well-being: New evidence and policy implications. In Handbook of economic growth (Vol. 2, pp. 49-120). Elsevier.
 * Guido Tabellini, 2010. "[Culture and Institutions: Economic Development in the Regions of Europe](https://academic.oup.com/jeea/article-pdf/8/4/677/10313288/jeea0677.pdf)," Journal of the European Economic Association, MIT Press, vol. 8(4), pages 677-716, 06. [(Data)](http://didattica.unibocconi.it/mypage/upload/48805_20100622_123124_REGIONS_GT_JUN10.DTA) [(Definition variables)](http://didattica.unibocconi.it/mypage/upload/48805_20100622_123114_REGIONS_README_GT_JUN10.DOC)
@@ -214,11 +215,9 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Bleakley, H., 2007. "[Disease and development: evidence from hookworm eradication in the American South](https://www.jstor.org/stable/25098838)". The quarterly journal of economics, 122(1), pp.73-117.
 * Cook, C.J., 2015. "[The natural selection of infectious disease resistance and its effect on contemporary health](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00509?casa_token=hQJIXkEsDL0AAAAA:IzawnOJdVW4xzh0r_GM7boaAzwrK5WA5KewH406U6OdoEQ0vYxoPeoKl7Dh4EdG5IyQdVXT09YBm)". Review of Economics and Statistics, 97(4), pp.742-757.
 
----#Other Topics
-
 ---
-#Presentations
-## Intergenerational Transmission of Culture (K.M)
+#Other Topics (Presentations)
+## Intergenerational Transmission of Culture & Mobility
 * Fulford, S., Petkov, I. and Schiantarelli, F., 2018. "[Does it matter where you came from? Ancestry composition and economic performance of US counties, 1850-2010](https://petkov33.github.io/assets/fps_ancestry.pdf)".
 * Burchardi, K.B., Chaney, T. and Hassan, T.A., 2018. "[Migrants, ancestors, and foreign investments](https://academic.oup.com/restud/article/86/4/1448/5078456)". The Review of Economic Studies, 86(4), pp.1448-1486. [(Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/86/4/10.1093_restud_rdy044/1/rdy044_supplementary_data.zip?Expires=1567612828&Signature=EOIfJY2pVU14saSztj5LXxvfbMTlB3yZ~CeN9RFHrnNUgKla~pPstXPf1NLc79D5s5B-oYpdG0kVIqlMd4251goqeCB91INwqO734DaNVMLJMxq2iBxRZ4xZwoGEiN7FUKpxWgamaOd2f~eSAvDjeyYrMBBIuiCDsVkrASuu4nYgJxmQKz74aKd-itNUHXFVUilxeLMaUzs1dm5SLnHvtaqXMNuFG0Q0aH0OA41TKZiRSRtU7o08dYCmCPLnvlW~HNM9uPzVLKBOS82eNLAV0F6jiSg5-RHdsczQPnoBK9uJoGmsbIjC3hgexwcSkZPi7OPGTvl-3IbxbZacoFRfXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 * Burchardi, K.B., Chaney, T., Hassan, T.A., Tarquinio, L. and Terry, S.J., 2019. "[Immigration, Innovation, and Growth]()".
@@ -227,10 +226,46 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Hatton, T.J. and Ward, Z., 2018. "[International Migration in the Atlantic Economy 1850–1940](https://link.springer.com/content/pdf/10.1007/978-3-642-40458-0_41-1.pdf)". Handbook of Cliometrics, pp.1-29.
 * Giavazzi, F., Petkov, I. and Schiantarelli, F., 2019. "[Culture: Persistence and evolution](https://doi.org/10.1007/s10887-019-09166-2)". Journal of Economic Growth, 24(2), pp.117-154. [(Supplemental Material)](https://link.springer.com/article/10.1007%2Fs10887-019-09166-2#SupplementaryMaterial)
 * Dohmen, T., Falk, A., Huffman, D. and Sunde, U., 2011. "[The intergenerational transmission of risk and trust attitudes](https://doi.org/10.1093/restud/rdr027)". The Review of Economic Studies, 79(2), pp.645-677. [(Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/79/2/10.1093_restud_rdr027/1/rdr027-79_2_Sunde_Supplementary_Material.zip?Expires=1567097463&Signature=CkaRVxNbKXjLqgVBgey5RNCBWp9ZVDMXBBCuOhdcZg4NrQs11Ef6co0xOMdQ0GqT-hsFX-QnoxtVtaJ7MybLm18tbwDpAK718ea5rwhdkR8~Vx6tML9UxfzIzANZbSAy6AAohkVrx~Huo9JXu6fGKflrRjxbPit1GwNuFcTYTzjUqBeQdRn7xOvntsEKQwLiTECKmaH-bVFb4mOeblVLLJyxkvEvtngrdsNwArUwWCsgZMxdH4GhACDkZuI5AXeuCOzj2YX64DIuRXAQAsOYf3VCop-R6rqzYkgwBGTOppta7od7k9PQS1X9gqL7mL1eSdLBEHtU~9tleoU8s1LwgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+* Knudsen, A.S.B., 2019. "[Those Who Stayed: Individualism, Self-Selection and Cultural Change during the Age of Mass Migration. Self-Selection and Cultural Change During the Age of Mass Migration](https://annesofiebeckknudsen.com/wp-content/uploads/2019/01/thosewhostayed.pdf)
+* Black, S.E. and Devereux, P.J., 2011. "[Recent Developments in Intergenerational Mobility](https://doi.org/10.1016/S0169-7218(11)02414-2)". Handbook of Labor Economics, 4, pp.1487-1541.
 
-## Religion, Culture and Political Economy (P.F)
+## Religion, Culture and Political Economy
 
-## Conflict
+* Clingingsmith, D., Khwaja, A.I. and Kremer, M., 2009. "[Estimating the impact of the Hajj: religion and tolerance in Islam's global gathering](https://www.jstor.org/stable/40506254)". The Quarterly Journal of Economics, 124(3), pp.1133-1170.
+* Campante, F. and Yanagizawa-Drott, D., 2015. "[Does religion affect economic growth and happiness? Evidence from Ramadan](https://doi.org/10.1093/qje/qjv002). The Quarterly Journal of Economics, 130(2), pp.615-658. [(Data)](https://academic.oup.com/qje/article/130/2/615/2330341#supplementary-data)
+* Andersen, T.B., Bentzen, J., Dalgaard, C.J. and Sharp, P., 2017. "[Pre‐reformation roots of the protestant ethic](https://doi.org/10.1111/ecoj.12367)". The Economic Journal, 127(604), pp.1756-1793. [(Data)](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fecoj.12367&file=ecoj12367-sup-0002-DataS1.zip)
+* Cantoni, D., 2012. "[Adopting a new religion: the case of Protestantism in 16th century Germany](https://www.jstor.org/stable/41494446)". The Economic Journal, 122(560), pp.502-531. [(Data)](https://academic.oup.com/ej/article/122/560/502/5079984?searchresult=1#supplementary-data)
+* Cantoni, D., 2015. "[The economic effects of the Protestant Reformation: testing the Weber hypothesis in the German lands](https://doi.org/10.1111/jeea.12117)". Journal of the European Economic Association, 13(4), pp.561-598.
+* Iyigun, M., 2008. "[Luther and Süleyman](https://doi.org/10.1162/qjec.2008.123.4.1465)". The Quarterly Journal of Economics, 123(4), pp.1465-1494.
+* Tabellini, G., 2008. "[The scope of cooperation: Values and incentives](https://doi.org/10.1162/qjec.2008.123.3.905)". The Quarterly Journal of Economics, 123(3), pp.905-950.
+* Arruñada, B., 2010. "[Protestants and Catholics: Similar work ethic, different social ethic](https://doi.org/10.1111/j.1468-0297.2009.02325.x)". The Economic Journal, 120(547), pp.890-918.
+* Fuchs-Schundeln, N. and Alesina, A., 2007. "[Good-Bye Lenin (Or Not?): The Effect of Communism on People's Preferences](https://www.jstor.org/stable/30034104)". American Economic Review. [(Data)](https://www.aeaweb.org/aer/data/sept07/20051016_data.zip)
+* Fuchs-Schündeln, N. and Schündeln, M., 2015. "[On the endogeneity of political preferences: Evidence from individual experience with democracy](https://doi.org/10.1126/science.aaa0880)". Science, 347(6226), pp.1145-1148.
+* Malmendier, U. and Nagel, S., 2011. "[Depression babies: do macroeconomic experiences affect risk taking?](https://doi.org/10.1093/qje/qjq004). The Quarterly Journal of Economics, 126(1), pp.373-416.
+* Alesina, A. and La Ferrara, E., 2005. "[Preferences for redistribution in the land of opportunities](https://doi.org/10.1016/j.jpubeco.2004.05.009)". Journal of public Economics, 89(5-6), pp.897-931.
+* Roland, G. and Yang, D.Y., 2017. "[China's Lost Generation: Changes in Beliefs and Their Intergenerational Transmission](https://www.nber.org/papers/w23441)" (No. w23441). National Bureau of Economic Research.
+* Chen, Y. and Yang, D.Y., 2019. "[Historical Traumas and the Roots of Political Distrust: Political Inference from the Great Chinese Famine](http://davidyyang.com/pdfs/famine_draft.pdf)".
+* Banerjee, A., Ferrara, E.L. and Orozco-Olvera, V.H., 2019. "[The entertaining way to behavioral change: Fighting HIV with MTV](https://www.nber.org/papers/w26096)" (No. w26096). National Bureau of Economic Research.
+* La Ferrara, E., Chong, A. and Duryea, S., 2012. "[Soap operas and fertility: Evidence from Brazil](https://www.aeaweb.org/articles?id=10.1257/app.4.4.1)". American Economic Journal: Applied Economics, 4(4), pp.1-31. [(Data)](https://www.aeaweb.org/aej/app/data/2009-0243_data.zip)
+
+## Conflict & Borders
+* Ray, D. and Esteban, J., 2017. "[Conflict and development](https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-061109-080205)". Annual Review of Economics, 9, pp.263-293.
+* Jha, S., 2013. "[Trade, institutions, and ethnic tolerance: Evidence from South Asia](https://doi.org/10.1017/S0003055413000464)". American political Science review, 107(4), pp.806-832.
+* Berman, N., Couttenier, M., Rohner, D. and Thoenig, M., 2017. "[This mine is mine! How minerals fuel conflicts in Africa](https://www.aeaweb.org/articles?id=10.1257/aer.20150774)". American Economic Review, 107(6), pp.1564-1610. [(Data)](https://www.aeaweb.org/content/file?id=4621)
+* Harari, M. and Ferrara, E.L., 2018. "[Conflict, climate, and cells: a disaggregated analysis](https://doi.org/10.1162/rest_a_00730)". Review of Economics and Statistics, 100(4), pp.594-608. [(Data)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OST8NQ)
+* Dickens, A., 2019. "[The Historical Roots of Ethnic Differences: The Role of Geography and Trade](https://brocku.ca/repec/pdf/1901.pdf)" (No. 1901).
+* Kitamura, S. and Lagerlöf, N.P., 2019. "[Geography and State Fragmentation](https://doi.org/10.1093/jeea/jvz032)". Journal of the European Economic Association [(Data)](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvz032/5535419?redirectedFrom=fulltext#supplementary-data)
+
+## Cultural Evolution Models
+* Bisin, A. and Verdier, T., 2011. "[The economics of cultural transmission and socialization](https://doi.org/10.1016/B978-0-444-53187-2.00009-7)". In Handbook of social economics (Vol. 1, pp. 339-416). North-Holland.
+* McElreath, R. and Henrich, J., 2007. "[Modeling cultural evolution](http://henrich.fas.harvard.edu/files/henrich/files/mcelreath_henrich_2007.pdf)". Oxford handbook of evolutionary psychology, pp.571-586.
+* Henrich, J., Boyd, R. and Richerson, P.J., 2008. "[Five misunderstandings about cultural evolution](https://link.springer.com/article/10.1007/s12110-008-9037-1)". Human Nature, 19(2), pp.119-137.
+* Doepke, M. and Zilibotti, F., 2017. "[Parenting with style: Altruism and paternalism in intergenerational preference transmission](https://doi.org/10.3982/ECTA14634)". Econometrica, 85(5), pp.1331-1371.
+* Boyd, Robert and Peter J. Richerson. 1985. [Culture and the Evolutionary Process](https://smile.amazon.com/Culture-Evolutionary-Process-Robert-Boyd/dp/0226069338). Oxford: Oxford University Press.
+* Doepke, M. and Zilibotti, F., 2014. "[Culture, entrepreneurship, and growth](https://www.sciencedirect.com/science/article/pii/B9780444535382000010)". In Handbook of economic growth (Vol. 2, pp. 1-48). Elsevier.
+
+## Institutions
+* Dell, M. and Olken, B.A., [The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in Java](https://doi.org/10.1093/restud/rdz017)". The Review of Economic Studies.
 
 ---
 # Handbooks & Surveys
