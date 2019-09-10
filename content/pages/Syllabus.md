@@ -216,7 +216,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Cook, C.J., 2015. "[The natural selection of infectious disease resistance and its effect on contemporary health](https://www.mitpressjournals.org/doi/pdfplus/10.1162/REST_a_00509?casa_token=hQJIXkEsDL0AAAAA:IzawnOJdVW4xzh0r_GM7boaAzwrK5WA5KewH406U6OdoEQ0vYxoPeoKl7Dh4EdG5IyQdVXT09YBm)". Review of Economics and Statistics, 97(4), pp.742-757.
 
 ---
-#Other Topics (Presentations)
+#Other Topics [(Presentations)](Presentations.html)
 ## Intergenerational Transmission of Culture & Mobility
 * Fulford, S., Petkov, I. and Schiantarelli, F., 2018. "[Does it matter where you came from? Ancestry composition and economic performance of US counties, 1850-2010](https://petkov33.github.io/assets/fps_ancestry.pdf)".
 * Burchardi, K.B., Chaney, T. and Hassan, T.A., 2018. "[Migrants, ancestors, and foreign investments](https://academic.oup.com/restud/article/86/4/1448/5078456)". The Review of Economic Studies, 86(4), pp.1448-1486. [(Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/86/4/10.1093_restud_rdy044/1/rdy044_supplementary_data.zip?Expires=1567612828&Signature=EOIfJY2pVU14saSztj5LXxvfbMTlB3yZ~CeN9RFHrnNUgKla~pPstXPf1NLc79D5s5B-oYpdG0kVIqlMd4251goqeCB91INwqO734DaNVMLJMxq2iBxRZ4xZwoGEiN7FUKpxWgamaOd2f~eSAvDjeyYrMBBIuiCDsVkrASuu4nYgJxmQKz74aKd-itNUHXFVUilxeLMaUzs1dm5SLnHvtaqXMNuFG0Q0aH0OA41TKZiRSRtU7o08dYCmCPLnvlW~HNM9uPzVLKBOS82eNLAV0F6jiSg5-RHdsczQPnoBK9uJoGmsbIjC3hgexwcSkZPi7OPGTvl-3IbxbZacoFRfXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
