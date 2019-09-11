@@ -41,17 +41,25 @@ If you do not have access to the papers consider using the [Unpaywall extension 
 
 * ** Galor, O. 2011 Ch. 3
 * ** Ashraf, Quamrul.and Oded Galor (2011), "[Dynamics and Stagnation in the Malthusian Epoch](https://www.aeaweb.org/articles?id=10.1257/aer.101.5.2003)" American Economic Review,  101(5): 2003–2041. [(replication data)](https://www.aeaweb.org/aer/data/aug2011/20081371_data.zip)
-* **Persson, K.G., 2008, "[The Malthus Delusion](https://www.jstor.org/stable/41378543)", European Review of Economic History, 12, 165-173.* Malthus, T. R., 1978, [An Essay on the Principle of Population.](http://www.esp.org/books/malthus/population/malthus.pdf) [Project Gutenberg (Various formats)](https://www.gutenberg.org/ebooks/4239)
+* **Persson, K.G., 2008, "[The Malthus Delusion](https://www.jstor.org/stable/41378543)", European Review of Economic History, 12, 165-173.
+* Malthus, T. R., 1978, [An Essay on the Principle of Population.](http://www.esp.org/books/malthus/population/malthus.pdf) [Project Gutenberg (Various formats)](https://www.gutenberg.org/ebooks/4239)
 * Clark, G. 2007 [A Farewell to Alms: A Brief Economic History of the World](https://smile.amazon.com/Farewell-Alms-Economic-History-Princeton/dp/0691141282), Princeton University Press
 * Kremer, M., 1993, "[Population Growth: 1 Million B.C. to the Present](https://www.jstor.org/stable/2118405)" Quarterly Journal of Economics, 108, 681-716.
 * De Long, J.B. 1998, "[Estimates of World GDP, One Million B.C. – Present](https://delong.typepad.com/print/20061012_LRWGDP.pdf)"
+* Mokyr, J. and Voth, H.J., 2010. "[Understanding growth in Europe, 1700-1870: theory and evidence](https://sites.northwestern.edu/jmokyr/files/2016/06/Understanding-growth-in-Europe-1700-1870-theory-and-evidence-2009-2e60fcj.pdf)". The Cambridge economic history of modern Europe, 1, pp.7-42.
 * Clark, G. 2010, "[The Macroeconomic Aggregates for England, 1209-2008](http://faculty.econ.ucdavis.edu/faculty/gclark/papers/Macroagg2009.pdf)", Research in Economic History
-* Boberg-Fazlic, N., Sharp, P. and Weisdorf, J. 2011, "[Survival of the richest? Social status, fertility and social mobility in England 1541-1824](https://doi.org/10.1017/S136149161100013X)", European Review of Economic History, Volume 15, Issue 3 December 2011, pp. 365-392
 * Broadberry, S., Campbell, B., Klein, A., Overton, M., and van Leeuwen, B. 2011. [British Economic Growth, 1270-1870: an output-based approach](https://ore.exeter.ac.uk/repository/bitstream/handle/10871/13984/Overton%20British%20Economic%20Growth%20WP.pdf?sequence=2) ([published as book](https://smile.amazon.com/Economic-1270-1870-Broadberry-Alexander-Paperback/dp/B010CL5NCQ)) ([Review by Persson](https://eh.net/book_reviews/british-economic-growth-1270-1870/))
+* Boberg-Fazlic, N., Sharp, P. and Weisdorf, J. 2011, "[Survival of the richest? Social status, fertility and social mobility in England 1541-1824](https://doi.org/10.1017/S136149161100013X)", European Review of Economic History, Volume 15, Issue 3 December 2011, pp. 365-392
+* Lee, R. and Anderson, M., 2002. "[Malthus in state space: Macro economic-demographic relations in English history, 1540 to 1870](https://link.springer.com/article/10.1007/s001480100091)". Journal of Population Economics, 15(2), pp.195-220.* Crafts, N. and Mills, T.C. 2009, "[From Malthus to Solow: How did the Malthusian economy really evolve?](https://doi.org/10.1016/j.jmacro.2007.08.007)" Journal of Macroeconomics
+Volume 31, Issue 1, March 2009, Pages 68-93
+* Rathke, A. and Sarferaz, S., 2014. [Malthus and the industrial revolution: evidence from a time-varying VAR](https://sites.google.com/site/samadsarferaz/Malthus_03August2017.pdf?attredirects=0&d=1)".
+* Voigtländer, N. and Voth, H.J., 2012. "[The three horsemen of riches: Plague, war, and urbanization in early modern Europe](https://doi.org/10.1093/restud/rds034)". Review of Economic Studies, 80(2), pp.774-811.
 * Bloom, D., and Williamson, J. 1998, "[Demographic Transitions and Economic Miracles in Emerging Asia.](https://www.jstor.org/stable/3990182)", The World Bank Economic Review, 12(3), 419-455
 * Cleland, J. and Sinding, S. 2005, "[What would Malthus say about AIDS in Africa?](https://doi.org/10.1016/S0140-6736(05)67603-9)", The Lancet,  Vol.366, Issue 9500, pp.1899-1901, Nov. 26
 * Weil, D. and Wilde, J. 2009, "[How Relevant Is Malthus for Economic Development Today?](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.99.2.255)", American Economic Review P&P 2009, 99:2, 255–260
 * Evenson, R.E. 2005, [Besting Malthus: The Green Revolution](https://www.jstor.org/stable/4598956), Proceedings of the American Philosophical Society, 149(4), 469-486
+* Eaton, J.W. and Mayer, A.J., 1953. "[The social biology of very high fertility among the Hutterites. The demography of a unique population](https://www.jstor.org/stable/41449079)". Human Biology, 25(3), p.206.
+
 ---#Population and Growth: Theories of the Demographic Transition
 
 * ** Galor, O. 2011 Ch. 4
@@ -62,7 +70,8 @@ If you do not have access to the papers consider using the [Unpaywall extension 
 * Kalemli-Ozcan, S. (2002), "[Does the Mortality Decline Promote Economic Growth](https://link.springer.com/article/10.1023/A:1020831902045)", Journal of Economic Growth 7: 411-439.
 * Doepke, M. (2005), "[Child Mortality and Fertility Decline: Does the Barro-Becker Model Fit the Facts?](https://link.springer.com/article/10.1007/s00148-004-0208-z)", Journal of Population Economics 17:
 * Caldwell, W. J. (1976), "[Toward a Restatement of Demographic Transition Theory](https://www.jstor.org/stable/1971615)", Population and Development Review, 2: 321-66.
-* Cervelatti, M and U. Sunde, 2011, "[Life Expectancy and Economic Growth: The Role of the Demographic Transition](https://link.springer.com/article/10.1007/s10887-011-9065-2)", Journal of Economic Growth, 16(2), 99-133---#Unified Growth Theory: Theory and Quantitative Evaluation
+* Cervelatti, M and U. Sunde, 2011, "[Life Expectancy and Economic Growth: The Role of the Demographic Transition](https://link.springer.com/article/10.1007/s10887-011-9065-2)", Journal of Economic Growth, 16(2), 99-133
+* Lee, R., 2003. "[The demographic transition: three centuries of fundamental change](https://www.doi.org/10.1257/089533003772034943)". Journal of economic perspectives, 17(4), pp.167-190.---#Unified Growth Theory: Theory and Quantitative Evaluation
 
 * ** Galor, O. 2011 Ch. 5
 * ** Galor, O. and D. Weil, 2000, "[Population, Technology, and Growth: From the Malthusian Regime to the Demographic Transition and Beyond](https://www.jstor.org/stable/117309)," American Economic Review, 89, 806-828.
