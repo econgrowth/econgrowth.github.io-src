@@ -8,7 +8,6 @@ Slug: Presentations
 ## Hang
 * Bisin, A. and Verdier, T., 2000. "[“Beyond the melting pot”: cultural transmission, marriage, and the evolution of ethnic and religious traits](https://academic.oup.com/qje/article-pdf/115/3/955/5174966/115-3-955.pdf)". The Quarterly Journal of Economics, 115(3), pp.955-988.
 * Bisin, A. and Verdier, T., 2001. "[The economics of cultural transmission and the dynamics of preferences](https://www.econ.nyu.edu/user/bisina/bvjet.pdf)". Journal of Economic theory, 97(2), pp.298-319.* Doepke, M. and Zilibotti, F., 2017. "[Parenting with style: Altruism and paternalism in intergenerational preference transmission](https://doi.org/10.3982/ECTA14634)". Econometrica, 85(5), pp.1331-1371.
-* Doepke, M. and Zilibotti, F., 2014. "[Culture, entrepreneurship, and growth](https://www.sciencedirect.com/science/article/pii/B9780444535382000010)". In Handbook of economic growth (Vol. 2, pp. 1-48). Elsevier.
 
 ## Hsin-Wei
 * Berman, N., Couttenier, M., Rohner, D. and Thoenig, M., 2017. "[This mine is mine! How minerals fuel conflicts in Africa](https://www.aeaweb.org/articles?id=10.1257/aer.20150774)". American Economic Review, 107(6), pp.1564-1610. [(Data)](https://www.aeaweb.org/content/file?id=4621)
@@ -29,7 +28,6 @@ Slug: Presentations
 * Giuliano, P. and Spilimbergo, A., 2013. "[Growing up in a Recession](https://www.anderson.ucla.edu/faculty_pages/paola.giuliano/Recession_RESTUD.pdf)". Review of Economic Studies, 81(2), pp.787-817.
 * Malmendier, U. and Nagel, S., 2011. "[Depression babies: do macroeconomic experiences affect risk taking?](https://doi.org/10.1093/qje/qjq004). The Quarterly Journal of Economics, 126(1), pp.373-416.
 * Fuchs-Schundeln, N. and Alesina, A., 2007. "[Good-Bye Lenin (Or Not?): The Effect of Communism on People's Preferences](https://www.jstor.org/stable/30034104)". American Economic Review. [(Data)](https://www.aeaweb.org/aer/data/sept07/20051016_data.zip)
-* La Ferrara, E., Chong, A. and Duryea, S., 2012. "[Soap operas and fertility: Evidence from Brazil](https://www.aeaweb.org/articles?id=10.1257/app.4.4.1)". American Economic Journal: Applied Economics, 4(4), pp.1-31. [(Data)](https://www.aeaweb.org/aej/app/data/2009-0243_data.zip)
 
 
 ## Shuo
@@ -40,4 +38,6 @@ Slug: Presentations
 ## Not assigned
 * Jha, S., 2013. "[Trade, institutions, and ethnic tolerance: Evidence from South Asia](https://doi.org/10.1017/S0003055413000464)". American political Science review, 107(4), pp.806-832.
 * Kitamura, S. and Lagerlöf, N.P., 2019. "[Geography and State Fragmentation](https://doi.org/10.1093/jeea/jvz032)". Journal of the European Economic Association [(Data)](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvz032/5535419?redirectedFrom=fulltext#supplementary-data)
+* La Ferrara, E., Chong, A. and Duryea, S., 2012. "[Soap operas and fertility: Evidence from Brazil](https://www.aeaweb.org/articles?id=10.1257/app.4.4.1)". American Economic Journal: Applied Economics, 4(4), pp.1-31. [(Data)](https://www.aeaweb.org/aej/app/data/2009-0243_data.zip)
+* Doepke, M. and Zilibotti, F., 2014. "[Culture, entrepreneurship, and growth](https://www.sciencedirect.com/science/article/pii/B9780444535382000010)". In Handbook of economic growth (Vol. 2, pp. 1-48). Elsevier.
 
