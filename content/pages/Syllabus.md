@@ -66,8 +66,8 @@ Volume 31, Issue 1, March 2009, Pages 68-93
 
 * ** Galor, O., 2011. "[The demographic transition: causes and consequences](https://link.springer.com/article/10.1007/s11698-011-0062-7)". Cliometrica, 6(1), pp.1-28.
 * ** Galor, O. 2011 Ch. 4
-* * Lee, R., 2003. "[The demographic transition: three centuries of fundamental change](https://www.doi.org/10.1257/089533003772034943)". Journal of economic perspectives, 17(4), pp.167-190.
-* * Galor, O. and D. Weil, 2000, "[Population, Technology, and Growth: From the Malthusian Regime to the Demographic Transition and Beyond](https://www.jstor.org/stable/117309)," American Economic Review, 89, 806-828.
+* \* Lee, R., 2003. "[The demographic transition: three centuries of fundamental change](https://www.doi.org/10.1257/089533003772034943)". Journal of economic perspectives, 17(4), pp.167-190.
+* \* Galor, O. and D. Weil, 2000, "[Population, Technology, and Growth: From the Malthusian Regime to the Demographic Transition and Beyond](https://www.jstor.org/stable/117309)," American Economic Review, 89, 806-828.
 * ** Galor, O. and D. Weil, 1996, "[The Gender Gap, Fertility and Growth](https://www.jstor.org/stable/2118202)", American Economic Review, 86, 374-387.
 * Becker, G.S., 1960. "[An economic analysis of fertility. In Demographic and economic change in developed countries](https://www.nber.org/chapters/c2387.pdf)" (pp. 209-240). Columbia University Press.
 * ** Becker, G.S. H.G. Lewis (1973), "[On the Interaction between the Quantity and Quality of Children](https://www.jstor.org/stable/1840425)", Journal of Political Economy, 81: S279-S288.
