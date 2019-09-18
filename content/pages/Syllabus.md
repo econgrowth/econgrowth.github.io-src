@@ -44,6 +44,7 @@ If you do not have access to the papers consider using the [Unpaywall extension 
 * ** Galor, O. 2011 Ch. 3
 * ** Ashraf, Quamrul.and Oded Galor (2011), "[Dynamics and Stagnation in the Malthusian Epoch](https://www.aeaweb.org/articles?id=10.1257/aer.101.5.2003)" American Economic Review,  101(5): 2003–2041. [(replication data)](https://www.aeaweb.org/aer/data/aug2011/20081371_data.zip)
 * **Persson, K.G., 2008, "[The Malthus Delusion](https://www.jstor.org/stable/41378543)", European Review of Economic History, 12, 165-173.
+* ** Henn, B.M., Cavalli-Sforza, L.L. and Feldman, M.W., 2012. "[The great human expansion](https://doi.org/10.1073/pnas.1212380109)". Proceedings of the National Academy of Sciences, 109(44), pp.17758-17764.
 * Malthus, T. R., 1978, [An Essay on the Principle of Population.](http://www.esp.org/books/malthus/population/malthus.pdf) [Project Gutenberg (Various formats)](https://www.gutenberg.org/ebooks/4239)
 * Clark, G. 2007 [A Farewell to Alms: A Brief Economic History of the World](https://smile.amazon.com/Farewell-Alms-Economic-History-Princeton/dp/0691141282), Princeton University Press
 * Kremer, M., 1993, "[Population Growth: 1 Million B.C. to the Present](https://www.jstor.org/stable/2118405)" Quarterly Journal of Economics, 108, 681-716.
@@ -61,6 +62,9 @@ Volume 31, Issue 1, March 2009, Pages 68-93
 * Weil, D. and Wilde, J. 2009, "[How Relevant Is Malthus for Economic Development Today?](https://pubs.aeaweb.org/doi/pdf/10.1257/aer.99.2.255)", American Economic Review P&P 2009, 99:2, 255–260
 * Evenson, R.E. 2005, [Besting Malthus: The Green Revolution](https://www.jstor.org/stable/4598956), Proceedings of the American Philosophical Society, 149(4), 469-486
 * Eaton, J.W. and Mayer, A.J., 1953. "[The social biology of very high fertility among the Hutterites. The demography of a unique population](https://www.jstor.org/stable/41449079)". Human Biology, 25(3), p.206.
+* Hammel, E.A., 1996. "[Demographic constraints on population growth of early humans](https://link.springer.com/article/10.1007/BF02733396)". Human Nature, 7(3), pp.217-255.
+* Gurven, M.D. and Davison, R.J., 2019. "[Periodic catastrophes over human evolutionary history are necessary to explain the forager population paradox](https://gurven.anth.ucsb.edu/sites/default/files/sitefiles/papers/gurvendavison2019.pdf)". Proceedings of the National Academy of Sciences, 116(26), pp.12758-12766.
+
 
 ---#Population and Growth: Theories of the Demographic Transition
 
@@ -203,6 +207,8 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Michalopoulos, S. and Papaioannou, E., 2016. "[The long-run effects of the Scramble for Africa](https://www.aeaweb.org/articles?id=10.1257/aer.20131311)". American Economic Review, 106(7), pp.1802-48. [(Data)](https://www.aeaweb.org/articles/attachments?retrieve=4VdVrKA7OJ5hN0-OyX8Yc7cRhN6iqvSn)
 * Bazzi, S., Gaduh, A., Rothenberg, A.D. and Wong, M., 2016. "[Skill transferability, migration, and development: Evidence from population resettlement in Indonesia](https://www.aeaweb.org/articles?id=10.1257/aer.20141781)". American Economic Review, 106(9), pp.2658-98. [(Data)](https://www.aeaweb.org/content/file?id=2158)
 * Desmet, K., Ortuño-Ortín, I. and Wacziarg, R., 2017. "[Culture, ethnicity, and diversity](https://www.aeaweb.org/articles?id=10.1257/aer.20150243)". American Economic Review, 107(9), pp.2479-2513. [(Data)](https://www.aeaweb.org/content/file?id=5266)
+* Henn, B.M., Cavalli-Sforza, L.L. and Feldman, M.W., 2012. "[The great human expansion](https://doi.org/10.1073/pnas.1212380109)". Proceedings of the National Academy of Sciences, 109(44), pp.17758-17764.
+* Li, J.Z., Absher, D.M., Tang, H., Southwick, A.M., Casto, A.M., Ramachandran, S., Cann, H.M., Barsh, G.S., Feldman, M., Cavalli-Sforza, L.L. and Myers, R.M., 2008. "[Worldwide human relationships inferred from genome-wide patterns of variation](https://doi.org/10.1126/science.1153717)". Science, 319(5866), pp.1100-1104. [(Data)](ftp://ftp.cephb.fr/hgdp_supp1) [(HGDP Datasets)](https://rosenberglab.stanford.edu/diversity.html)
 
 ---#Persistence* ** Spolaore, E. and Wacziarg, R., 2013. "[How deep are the roots of economic development?](http://sites.tufts.edu/enricospolaore/files/2012/08/RootsF.pdf)". Journal of economic literature, 51(2), pp.325-69.
 * ** Guiso, L., Sapienza, P. and Zingales, L., 2016. "[Long-term persistence](https://academic.oup.com/jeea/article/14/6/1401/2756731)". Journal of the European Economic Association, 14(6), pp.1401-1436. [(Data)]()* ** Galor O and Ö. Özak 2016 "[The Agricultural Origins of Time Preference](https://www.jstor.org/stable/43956943)". American Economic Review:  106(10):3064–3103 [(Replication data)](https://www.aeaweb.org/content/file?id=2366) [(Caloric Suitability Index)](http://ozak.github.io/Caloric-Suitability-Index/)
