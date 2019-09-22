@@ -9,7 +9,7 @@ Summary: Homepage for Economic Growth and Comparative Development Courses
 <!--
 |  | |
 | --|:--|
-| {% img /images/Ozak.jpg 300 200 Me %} | My name is Ömer Özak, I'm an assistant professor at SMU interested in .   |
+| {% img /images/Ozak.jpg 300 200 Me %} | My name is Ömer Özak, I'm an Associate professor at SMU interested in .   |
 -->
 <!--
 <table style="text-align:top;">

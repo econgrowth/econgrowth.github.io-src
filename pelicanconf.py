@@ -36,7 +36,7 @@ FEEDS =  (('All posts', 'feeds/all.atom.xml'),
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/econgrowth'),
-          #('Twitter', 'https://twitter.com/'),
+          ('Twitter', 'https://twitter.com/OmerOzakEcon'),
           ('Linkedin', 'https://linkedin.com/in/omerozak'),
           ('Researchgate','https://www.researchgate.net/profile/Oemer_Oezak'),)
 
@@ -50,19 +50,24 @@ LINKS = (('Ömer Özak', 'http://omerozak.com/'),
          ('Dept. Economics', 'http://www.smu.edu/economics'),
          ('SMU', 'http://www.smu.edu/'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 20
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
 ####################################################
 # Additions
+# tell pelican where your custom.css file is in your content folder
 STATIC_PATHS = ['images', 'downloads', 'notebooks', 'pdf', 'extra/main.css',
-                'extra/font-awesome'
+                'extra/font-awesome', 'extra/custom.css',
                 'downloads/files','downloads/code', 'images/favicon.ico', 'images/pics']
+# tell pelican where it should copy that file to in your output folder
 EXTRA_PATH_METADATA = {
     'extra/main.css': {'path': 'theme/css/main.css'},
+    'extra/custom.css': {'path': 'static/custom.css'},
 }
+# tell the pelican-bootstrap-3 theme where to find the custom.css file in your output folder
+CUSTOM_CSS = 'static/custom.css'
 
 READERS = {'html': None}
 
@@ -141,6 +146,7 @@ DISPLAY_PAGES_ON_MENU = False
 
 MENUITEMS = (
     ('Syllabus', '/pages/Syllabus.html'),
+    ('Reading List', '/pages/Reading List.html'),
     ('Lecture Notes', '/pages/Lecture Notes.html'),
     ('Computation', '/pages/Computation.html'),
     ('Useful Tips', '/pages/Useful Tips.html'),
