@@ -63,6 +63,7 @@ Volume 31, Issue 1, March 2009, Pages 68-93
 * Evenson, R.E. 2005, [Besting Malthus: The Green Revolution](https://www.jstor.org/stable/4598956), Proceedings of the American Philosophical Society, 149(4), 469-486
 * Eaton, J.W. and Mayer, A.J., 1953. "[The social biology of very high fertility among the Hutterites. The demography of a unique population](https://www.jstor.org/stable/41449079)". Human Biology, 25(3), p.206.
 * Hammel, E.A., 1996. "[Demographic constraints on population growth of early humans](https://link.springer.com/article/10.1007/BF02733396)". Human Nature, 7(3), pp.217-255.
+* Pennington, R., 2001. "[Hunter-gatherer demography](https://books.google.com/books?id=7yCpBRAY22UC&lpg=PA170&ots=LJSaLUix1T&dq=pennington%20hunter%20gatherer%20demography&lr&pg=PA170#v=onepage&q=pennington%20hunter%20gatherer%20demography&f=false)". Hunter-gatherers: An interdisciplinary perspective, pp.170-204.
 * Gurven, M.D. and Davison, R.J., 2019. "[Periodic catastrophes over human evolutionary history are necessary to explain the forager population paradox](https://gurven.anth.ucsb.edu/sites/default/files/sitefiles/papers/gurvendavison2019.pdf)". Proceedings of the National Academy of Sciences, 116(26), pp.12758-12766.
 ---#Population and Growth: Theories of the Demographic Transition
 
