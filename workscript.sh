@@ -44,3 +44,12 @@ cd ..
 git add .
 git commit -m "Updated jupyter notebooks Economic Data"
 git push -u origin master
+
+cd output
+git add .
+git commit -m "Updated gitignore"
+git push -u origin master
+cd ..
+git add .
+git commit -m "Updated gitignore"
+git push -u origin master
