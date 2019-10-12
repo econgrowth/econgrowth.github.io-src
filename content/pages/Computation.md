@@ -41,7 +41,9 @@ In Windows install [Visual C++ 9.0](https://www.microsoft.com/en-us/download/det
 
 In ``MACOS`` download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``).
 
-Then download one of the following scripts 
+Then you can either:
+
+A. download one of the following scripts 
 
 * [GeoPython3env](https://www.dropbox.com/s/d79ahsu3xz4632g/GeoPython3env2019B_nobuilds.yml?dl=0) (latest environment)
 * [GeoPython3env old](https://www.dropbox.com/s/38a7mcaziyzmovj/GeoPython3env.yml?dl=0)  (older Python 3 environment)
@@ -55,9 +57,11 @@ and execute
     #conda-env create -f GeoPython2env.yml
     #conda-env create -f GeoPython3env.yml
     
-This should create an environment with all the packages you will require for this course (and more!). If this fails, which seems to happen often due to version conflicts, execute
+This should create an environment with all the packages you will require for this course (and more!). 
 
-	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill xlrd pandas-datareader rise jupyterlab 
+B. If A. fails, which seems to happen often due to version conflicts, execute
+
+	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill xlrd pandas-datareader rise jupyterlab cython numba
 
 This should create an environment with some of the packages we need. We can always install others down the road.
 

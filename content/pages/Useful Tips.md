@@ -25,6 +25,9 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 * Nikolov, P. (2013). ["Writing Tips For Economcis Research papers"](http://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
 * Shapiro, J. ["Four Steps to an Applied Micro Paper"](https://www.dropbox.com/s/h4b8xq18rk0yj72/foursteps.pdf?dl=0)
 
+## Statistics and Analyses
+* Markin, T.R. and Orban de Xivry, J.-J. "[Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://elifesciences.org/articles/48175)"
+
 ---
 # Slides & Presentation
 * Meager, R. (2017). ["Public Speaking for Academic Economists"](https://www.dropbox.com/s/vvzwjnjfa0yjqro/public_speaking_for_academic_economists.pdf?dl=0)

@@ -38,9 +38,9 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "Updated Lecture 3 & 4"
+git commit -m "Updated jupyter notebooks Intro & Economic Data"
 git push -u origin master
 cd ..
 git add .
-git commit -m "Updated Lecture 3 & 4"
+git commit -m "Updated jupyter notebooks Intro & Economic Data"
 git push -u origin master
