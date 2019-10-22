@@ -58,7 +58,7 @@ RELATIVE_URLS = True
 ####################################################
 # Additions
 # tell pelican where your custom.css file is in your content folder
-STATIC_PATHS = ['images', 'downloads', 'notebooks/*.ipynb', 'pdf', 'extra/main.css',
+STATIC_PATHS = ['images', 'downloads', 'notebooks', 'pdf', 'extra/main.css',
                 'extra/font-awesome', 'extra/custom.css',
                 'downloads/files','downloads/code', 'images/favicon.ico', 'images/pics']
 # tell pelican where it should copy that file to in your output folder

@@ -24,6 +24,7 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 * Dudenhefer, P. (2009). ["A Guide to Writing in Economics"](http://lupus.econ.duke.edu/ecoteach/undergrad/manual.pdf)
 * Nikolov, P. (2013). ["Writing Tips For Economcis Research papers"](http://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
 * Shapiro, J. ["Four Steps to an Applied Micro Paper"](https://www.dropbox.com/s/h4b8xq18rk0yj72/foursteps.pdf?dl=0)
+* Claudia Sahm's ["Advice for Job Market Candidates"](http://macromomblog.com/2019/09/01/lets-talk/), [Some more](http://macromomblog.com/2019/09/29/we-need-to-talk-more/)
 
 ## Statistics and Analyses
 * Markin, T.R. and Orban de Xivry, J.-J. "[Ten common statistical mistakes to watch out for when writing or reviewing a manuscript](https://elifesciences.org/articles/48175)"

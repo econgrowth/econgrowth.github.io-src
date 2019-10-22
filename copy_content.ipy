@@ -49,3 +49,12 @@ for i in notebooks:
         print(i)
         print(j)
         copyfile(i, j)
+
+# Copy notebooks to CompEcon
+path_compecon = '../../../../CompEcon/notebooks/'
+for i in notebooks:
+    if i.find('checkpoints')==-1:
+        j = i.replace(path_ipynb, path_compecon)
+        print(i)
+        print(j)
+        copyfile(i, j)
