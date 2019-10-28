@@ -38,7 +38,6 @@ If you do not have access to the papers consider using the [Unpaywall extension 
 * Mokyr J. and J. Voth, 2006, [Understanding Growth in Europe, 1700-1870: Theory and Evidence"](http://atar.mscc.huji.ac.il/%7Emelchior/DEGIT/mokyr.pdf)
 * Livi-Bacci, M., 1997, [A Concise History of World Population](https://smile.amazon.com/Concise-History-World-Population/dp/1119029279/), Oxford: Blackwell.
 * Bairoch, P., 1982. "[International industrialization levels from 1750 to 1980](http://search.proquest.com/openview/b8f0ecee8c6f027c82a22281c0f46bcf/1?pq-origsite=gscholar&cbl=1819397)". Journal of European Economic History, 11(2), p.269.
-
 ---#The Malthusian Epoch: Theory and Empirics
 
 * ** Galor, O. 2011 Ch. 3
