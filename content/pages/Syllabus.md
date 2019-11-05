@@ -93,6 +93,7 @@ Volume 31, Issue 1, March 2009, Pages 68-93
 * Galor, O. and D. Weil, 1999, "[From Malthusian Stagnation to Modern Growth,](https://www.jstor.org/stable/117097)" American Economic Review P&P, 88, 150-154.
 * ** Hansen G. and E. Prescott, 2002, "[Malthus to Solow](https://www.jstor.org/stable/3083308)". American Economic Review, 92, 1205-1217.
 * ** Lagerlof, N. (2006), "[The Galor-Weil Model Revisited: A Quantitative Exercise](https://doi.org/10.1016/j.red.2005.07.002)", Review of Economic Dynamics,  9, 116-142.
+* Galor, O. and Moav, O., 2002. [Natural selection and the origin of economic growth](https://doi.org/10.1162/003355302320935007). The Quarterly Journal of Economics, 117(4), pp.1133-1191.
 * Desmet, K and S. Parente, 2012, "[The evolution of markets and the revolution of industry: a unified theory of growth](https://link.springer.com/article/10.1007/s10887-012-9080-y)", Journal of Economic Growth
 * Cervelatti, M and U. Sunde, 2005 "[Human Capital Formation, Life Expectancy, and the Process of Development](https://www.jstor.org/stable/4132770)", American Economic Review, 95(5), 1653-1672
 * Crafts, N. and Mills, T.C. 2009, "[From Malthus to Solow: How did the Malthusian economy really evolve?](https://doi.org/10.1016/j.jmacro.2007.08.007)" Journal of Macroeconomics
