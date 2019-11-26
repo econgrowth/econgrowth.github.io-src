@@ -61,7 +61,7 @@ This should create an environment with all the packages you will require for thi
 
 B. If A. fails, which seems to happen often due to version conflicts, execute
 
-	conda create --name GeoPython3env -c conda-forge python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill xlrd pandas-datareader rise jupyterlab cython numba openpyxl scikit-bio geoplot wikipedia 
+	conda create --name GeoPython3env -c conda-forge -c numba -c rapidsai -c mro -c r -c defaults python=3.6 geopandas georasters pandas numpy matplotlib seaborn jupyter scikit-image scikit-learn scipy r rstudio r-irkernel ipykernel ipyparallel statsmodels pycountry networkx rpy2 rasterio r-tidyr r-tibble r-dplyr pandana urbanaccess dill xlrd pandas-datareader rise jupyterlab cython numba openpyxl scikit-bio geoplot wikipedia swifter pelican datashader 
 	conda activate GeoPython3env
 	pip install linearmodels isounidecode geonamescache geocoder 
 
