@@ -196,6 +196,7 @@ More info in the [``rpy2`` website](https://rpy2.bitbucket.io/).
 * Notebook 5: GIS with QGIS [(html)](/GIS with QGIS.html) [(ipynb)](/notebooks/GIS.ipynb)
 * Notebook 6: GIS with Python [(html)](/GIS with Python.html) [(ipynb)](/notebooks/GIS with Python.ipynb)
 * Notebook 7: GIS with Python 2 [(html)](/GIS with Python 2.html) [(ipynb)](/notebooks/GIS with Python 2.ipynb)
+* Notebook 8: GIS with Python 3 [(html)](/GIS with Python 3.html) [(ipynb)](/notebooks/GIS with Python 3.ipynb)
 
 
 ---
