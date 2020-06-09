@@ -46,6 +46,25 @@ Install the ``LaTeX`` distribution for your system from the [LaTeX website](http
 
 Another option is to use [tectonic](https://tectonic-typesetting.github.io/en-US/), which is supposed to install a smaller version of the ``TeX`` distributon and download only packages that you require. You can install it using ``conda`` into your ``GeoPython`` environment.
 
+To get started with ``LaTeX`` check out [Overleaf's Introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) or some of its [other resources](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) to get started.
+
+Some of my templates for ``LaTeX``:
+* [Working Paper](https://www.dropbox.com/s/r3s63czke0pb8ar/WPtemplate.tex?dl=0)
+* [Slides](https://www.dropbox.com/s/hkgcruoo6rm9ccy/slides.tex?dl=0)
+
+---
+#Markdown Editor
+
+It is useful to have a markdown editor to edit files for ``Github`` as well as generating websites like this one. Here are a few options:
+
+* [MacDown](https://macdown.uranusjr.com/) free and opensource for MacOS.
+* [typora](https://typora.io/) works on MacOS, WIndows and Linux (free beta)
+* [atom Markdown Preview](https://atom.io/packages/markdown-preview) free and open source for any OS that handles [atom](https://atom.io/)
+* [dillinger](https://dillinger.io/) online and open source
+* [stackedit](https://stackedit.io/app#) online and open source
+
+More information on markdown at [Markdown Guide](https://www.markdownguide.org/).
+
 ---
 #Stata Packages
 
