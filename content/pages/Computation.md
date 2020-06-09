@@ -49,6 +49,7 @@ Another option is to use [tectonic](https://tectonic-typesetting.github.io/en-US
 To get started with ``LaTeX`` check out [Overleaf's Introduction](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)) or some of its [other resources](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes) to get started.
 
 Some of my templates for ``LaTeX``:
+
 * [Working Paper](https://www.dropbox.com/s/r3s63czke0pb8ar/WPtemplate.tex?dl=0)
 * [Slides](https://www.dropbox.com/s/hkgcruoo6rm9ccy/slides.tex?dl=0)
 
