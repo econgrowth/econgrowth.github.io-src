@@ -114,7 +114,9 @@ A. **(Recommended)** In a terminal window execute
 	jupyter nbextension enable nbTranslate/main
 	r -e "IRkernel::installspec()"
 
-This should create an environment with most of the packages we need. We can always install others down the road.
+This should create an environment with most of the packages we need. We can always install others down the road. 
+
+``Windows`` users will need to follow [additional instructions](https://kylebarron.dev/stata_kernel/getting_started/) to have the ``Stata`` kernel working.
 
 B. **(Generally not recommended)** download one of the following scripts 
 
@@ -166,6 +168,8 @@ and then
 
 	conda install -c conda-forge nodejs -y
 	jupyter labextension install jupyterlab-stata-highlight
+
+``Windows`` users will need to follow [additional instructions](https://kylebarron.dev/stata_kernel/getting_started/) to have the ``Stata`` kernel working.
 
 ## R kernel
 We can also use ``R`` within Jupyter Notebooks with the [R kernel](https://irkernel.github.io/). The best way to install it (in case you do not use the ``YAML`` environment file above) is to use ``conda`` by executing
@@ -226,6 +230,8 @@ More info in the [``rpy2`` website](https://rpy2.bitbucket.io/).
 * Notebook 6: GIS with Python (Geometries) [(html)](/GIS with Python.html) [(ipynb)](/notebooks/GIS with Python.ipynb)
 * Notebook 7: GIS with Python 2 (Rasters) [(html)](/GIS with Python 2.html) [(ipynb)](/notebooks/GIS with Python 2.ipynb)
 * Notebook 8: GIS with Python 3 (Data Munging) [(html)](/GIS with Python 3.html) [(ipynb)](/notebooks/GIS with Python 3.ipynb)
+* Notebook 9: Stata Jupyter Notebooks (Stata kernel) [(html)](/Stata Notebook Example.html) [(ipynb)](/notebooks/Stata Notebook Example.ipynb)
+* Notebook 10: Stata in a Python Jypyter Notebook (ipystata) [(html)](/Stata in a Python Notebook.html) [(ipynb)](/notebooks/Stata in a Python Notebook.ipynb)
 
 
 ---
