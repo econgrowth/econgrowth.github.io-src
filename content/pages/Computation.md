@@ -53,6 +53,8 @@ Some of my templates for ``LaTeX``:
 * [Working Paper](https://www.dropbox.com/s/r3s63czke0pb8ar/WPtemplate.tex?dl=0)
 * [Slides](https://www.dropbox.com/s/hkgcruoo6rm9ccy/slides.tex?dl=0)
 
+You can find more templates [here](https://www.latextemplates.com/) or [here](https://www.overleaf.com/gallery/tagged/presentation).
+
 ---
 #Markdown Editor
 
@@ -91,9 +93,9 @@ You can update an existing list by
 #Installing (I)Python & Jupyter
 The easiest and most convenient way to install a working version of IPython with all the required packages and tools is using [Continuum's Anaconda Distribution](https://www.anaconda.com/distribution/). You can install following the instructions in that website, or if you can just run [this script (Mac/Linux)](https://www.dropbox.com/s/6st528ethbkmvv2/CondaInstall.sh?dl=0). After installing the latest version of Anaconda, add the ``Anaconda/bin`` directory to your ``PATH`` variable. 
 
-In Windows you may need to install [Visual C++ 9.0](https://www.microsoft.com/en-us/download/details.aspx?id=44266), [Visual C++ 14](https://msdn.microsoft.com/en-us/library/hh567368.aspx) and [Microsoft MPI6](https://www.microsoft.com/en-us/download/details.aspx?id=47259). 
+In ``Windows`` you may need to install some version of [Visual C++](https://visualstudio.microsoft.com/visual-cpp-build-tools/) (e.g. for ``Python-2.7`` you need [Visual C++ 9.0](https://www.microsoft.com/en-us/download/details.aspx?id=44266) otherwise choose the most up-to-date version) and [Microsoft MPI](https://www.microsoft.com/en-us/download/details.aspx?id=57467). 
 
-In ``MACOS`` download and install XCode (from the Apple store) and command line tools (option within XCode or in a terminal execute ``xcode-select --install``).
+In ``MACOS`` download and install ``XCode`` (from the Apple store) and command line tools (option within ``XCode`` or in a terminal execute ``xcode-select --install``).
 
 Since the basic installation may not have all the packages you need and it is always best to keep an environment for your work, after installation:
 
@@ -110,6 +112,7 @@ A. **(Recommended)** In a terminal window execute
 	ipcluster nbextension enable
 	jupyter contrib nbextension install --sys-prefix
 	jupyter nbextension enable nbTranslate/main
+	r -e "IRkernel::installspec()"
 
 This should create an environment with most of the packages we need. We can always install others down the road.
 
@@ -173,6 +176,11 @@ You can also install ``R`` and ``R`` packages by using ``conda``. Simply execute
 
 	conda install -c conda-forge -c r r
 	conda install -c conda-forge -c r r-PACKAGE_NAME
+	
+For the ``R-kernel`` to be available you need to open ``R`` and execute
+
+	IRkernel::installspec()
+
 
 ## Running Stata or R in Python
 We can also use ``Stata`` or ``R`` directly within ``Python``. You only need to use the ``%magic`` for each after installing the required packages. For example for ``Stata`` you need  [``ipystata``](https://github.com/TiesdeKok/ipystata). Install by executing
