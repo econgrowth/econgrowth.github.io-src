@@ -231,7 +231,7 @@ More info in the [``rpy2`` website](https://rpy2.bitbucket.io/).
 * Notebook 7: GIS with Python 2 (Rasters) [(html)](/GIS with Python 2.html) [(ipynb)](/notebooks/GIS with Python 2.ipynb)
 * Notebook 8: GIS with Python 3 (Data Munging) [(html)](/GIS with Python 3.html) [(ipynb)](/notebooks/GIS with Python 3.ipynb)
 * Notebook 9: Stata Jupyter Notebooks (Stata kernel) [(html)](/Stata Notebook Example.html) [(ipynb)](/notebooks/Stata Notebook Example.ipynb)
-* Notebook 10: Stata in a Python Jupyter Notebook (ipystata) [(html)](/Stata in a Python Notebook.html) [(ipynb)](/notebooks/Stata in a Python Notebook.ipynb)
+* Notebook 10: Stata in a Python Jupyter Notebook (ipystata) [(html)](/Stata in Python Notebook.html) [(ipynb)](/notebooks/Stata in Python Notebook.ipynb)
 
 
 ---
