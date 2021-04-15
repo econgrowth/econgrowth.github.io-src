@@ -3,6 +3,8 @@
 from __future__ import unicode_literals
 import os
 
+from pelican_jupyter import markup as nb_markup
+
 DELETE_OUTPUT_DIRECTORY = False
 # Me
 AUTHOR = u'Ömer Özak'

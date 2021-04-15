@@ -15,6 +15,7 @@ git submodule add git@github.com:econgrowth/econgrowth.github.io.git output
 # Create baseline
 pelican-quickstart
 
+conda activate GeoPython37env
 # copy files
 ipython copy_content.ipy
 
@@ -47,9 +48,9 @@ git push -u origin master
 
 cd output
 git add .
-git commit -m "Updated Computation"
+git commit -m "Updated Data Page"
 git push -u origin master
 cd ..
 git add .
-git commit -m "Updated Computation"
+git commit -m "Updated Data Page"
 git push -u origin master
