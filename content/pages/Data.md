@@ -1,4 +1,4 @@
-Title: GAEZ
+Title: Data
 date: 2021-04-15 16:00
 Author: ozak
 Slug: Data
