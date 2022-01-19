@@ -5,6 +5,8 @@ import os
 
 from pelican_jupyter import markup as nb_markup
 
+LIQUID_CONFIGS = (("IPYNB_EXPORT_TEMPLATE", "base", ""),)
+
 DELETE_OUTPUT_DIRECTORY = False
 # Me
 AUTHOR = u'Ömer Özak'

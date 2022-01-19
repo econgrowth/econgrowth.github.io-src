@@ -72,7 +72,13 @@ Volume 31, Issue 1, March 2009, Pages 68-93
 * Cervelatti, M and U. Sunde, 2005 "[Human Capital Formation, Life Expectancy, and the Process of Development](https://www.jstor.org/stable/4132770)", American Economic Review, 95(5), 1653-1672
 * Crafts, N. and Mills, T.C. 2009, "[From Malthus to Solow: How did the Malthusian economy really evolve?](https://doi.org/10.1016/j.jmacro.2007.08.007)" Journal of Macroeconomics
 Volume 31, Issue 1, March 2009, Pages 68-93
-* Dao, N.T. and Davila, J., 2013. [Can geography lock a society in stagnation?](https://www.sciencedirect.com/science/article/pii/S0165176513002681). Economics Letters, 120(3), pp.442-446.---#Comparative Economic Development
+* Dao, N.T. and Davila, J., 2013. [Can geography lock a society in stagnation?](https://www.sciencedirect.com/science/article/pii/S0165176513002681). Economics Letters, 120(3), pp.442-446.
+
+---
+# Human Evolution and Growth
+
+* ** Galor, O. and Moav, O., 2006. "[Das human-kapital: A theory of the demise of the class structure](https://www.jstor.org/stable/3700618)". The Review of Economic Studies, 73(1), pp.85-117.
+* ** Galor, Oded & Michalopoulos, Stelios, 2012. "[Evolution and the growth process: Natural selection of entrepreneurial traits](https://doi.org/10.1016/j.jet.2011.04.005)," Journal of Economic Theory, Elsevier, vol. 147(2), pages 759-780.* ** Galor O and Ö. Özak 2016 "[The Agricultural Origins of Time Preference](https://www.jstor.org/stable/43956943)". American Economic Review:  106(10):3064–3103 [(Replication data)](https://www.aeaweb.org/content/file?id=2366) [(Caloric Suitability Index)](http://ozak.github.io/Caloric-Suitability-Index/)---#Comparative Economic Development
 ##Overview of the Literature* Diamond, Jared, 1997, [Guns, Germs, and Steel: The Fates of Human Societies.](https://smile.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393354326)
 *  Galor, O., 2005, "[From Stagnation to Growth: Unified Growth Theory](https://www.brown.edu/Departments/Economics/Faculty/Oded_Galor/pdf/Galor-Handbook%20of%20Economic%20Growth%20-Reprint.pdf)" Handbook of Economic Growth, North-Holland
 * Nunn, Nathan and Nancy Qian, "[The Columbian Exchange: a Historical Change in Food, Disease and Ideas](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163)" Journal of Economic Perspectives, 24(2), Spring 2010.
