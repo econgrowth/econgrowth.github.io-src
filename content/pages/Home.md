@@ -27,7 +27,7 @@ Summary: Homepage for Economic Growth and Comparative Development Courses
 <!--{% img /images/Ozak.jpg 300 200 Me %}-->
 
 
- <div > <img src="/images/Ozak.jpg" width="25%" Alt="Ömer Özak" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px" /> 	My name is Ömer Özak. I am an Associate Professor at the [Department of Economics](http://smu.edu/economics/) at [Southern Methodist University](http://smu.edu/) and a [Research Fellow](https://www.iza.org/people/fellows/21084/omer-ozak) at [IZA](https://www.iza.org/).
+<img src="/images/Ozak.jpg" width="25%" Alt="Ömer Özak" style="float:left; padding-left:15px; padding-right:15px; padding-top:0; padding-bottom:15px"/> 	My name is Ömer Özak. I am an Associate Professor at the [Department of Economics](http://smu.edu/economics/) at [Southern Methodist University](http://smu.edu/) and a [Research Fellow](https://www.iza.org/people/fellows/21084/omer-ozak) at [IZA](https://www.iza.org/).
 
 My research explores the deep historical origins and long-run consequences of some of the most fundamental cultural, human and economic characteristics that are at the roots of contemporary comparative economic development across countries, regions and ethnic groups. In particular, I study how the interaction of bio-geographical, cultural, institutional, and technological factors have determined the evolution of societies in the course of human history. 
  
