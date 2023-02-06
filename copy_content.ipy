@@ -23,11 +23,11 @@ def find(pattern, path):
     return result
 
 # Set path of original files
-%cd EconGrowth
+%cd EconGrowthPdfs
 path = os.path.abspath('./') + '/'
 
 # Set path of output files
-%cd EconGrowthWebsite
+%cd EconGrowthWebsitePdfs
 pathout = os.path.abspath('./') + '/'
 
 # Get lecture files and copy and rename them
@@ -40,8 +40,8 @@ for i in slides:
     print(j)
     copyfile(i, j)
 
-path_ipynb = pathout + '../notebooks/'
-pathout_ipynb = pathout + '../../output/notebooks/'
+path_ipynb = path + '../notebooks/'
+pathout_ipynb = pathout + '../notebooks/'
 notebooks = find('*ipynb', path_ipynb)
 for i in notebooks:
     if i.find('checkpoints')==-1:

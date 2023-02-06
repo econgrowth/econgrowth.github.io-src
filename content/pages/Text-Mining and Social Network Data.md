@@ -1,3 +1,10 @@
+Title: Text-Mining and Social Network Data
+Slug: Text-Mining and Social Network Data 
+Category: Computation, Dynamic Programming, IPythonmain
+date: 2016-12-29 13:53
+Tags: Computation, IPython, Python, QGIS, Text-Mining, Social Network Data
+Author: Ömer Özak
+
 # Literature using Text-Mining and Social Network Data
 
 ----

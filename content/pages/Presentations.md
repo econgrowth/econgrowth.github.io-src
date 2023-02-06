@@ -1,9 +1,20 @@
-Title: Presentations
-date: 2016-12-29 13:53
-Author: ozak
+Title: Suggested Papers and Topics for Presentations
+date: 2022-02-06 09:53
+Author: Ömer Özak
 Slug: Presentations
+---
 
-# Suggested Papers for Presentations
+# Culture
+
+##
+ 
+* La Ferrara, E., Chong, A. and Duryea, S., 2012. "[Soap operas and fertility: Evidence from Brazil](https://www.aeaweb.org/articles?id=10.1257/app.4.4.1)". American Economic Journal: Applied Economics, 4(4), pp.1-31. [(Data)](https://www.aeaweb.org/aej/app/data/2009-0243_data.zip)
+* Banerjee, A., La Ferrara, E., & Orozco, V. (2019, May). [Entertainment, education, and attitudes toward domestic violence.](https://www.aeaweb.org/doi/10.1257/pandp.20191073) In AEA Papers and Proceedings (Vol. 109, pp. 133-137). 
+* Banerjee, A., La Ferrara, E., & Orozco-Olvera, V. H. (2019). [The entertaining way to behavioral change: Fighting HIV with MTV](https://www.nber.org/papers/w26096) NBER WP, [No. w26096](https://www.nber.org/system/files/working_papers/w26096/w26096.pdf). National Bureau of Economic Research.
+* Ang, D. (2022). [The Birth of a Nation: Media and Racial Hate.](https://scholar.harvard.edu/files/ang/files/ang_birthofanation_july2022.pdf)
+* Fernández, R., Parsa, S., & Viarengo, M. (2019). [Coming out in America: AIDS, politics, and cultural change](https://www.nber.org/papers/w25697) NBER WP, [No. w25697](https://www.nber.org/system/files/working_papers/w25697/w25697.pdf). National Bureau of Economic Research.
+* Fernández, R., & Parsa, S. (2022). [Gay Politics Goes Mainstream: Democrats, Republicans and Same‐sex Relationships.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecca.12404) Economica, [89, S86-S109](https://drive.google.com/file/d/10IgtHjIRKOgIRuxI06X_FNuWVht_Jwdv/view).
+* Fernández, R., Parsa, S., & Viarengo, M. (2021). [Coming out in America: thirty years of cultural change.](https://drive.google.com/file/d/1naN0ZfXo_53RIBmCw7eWGOTE8N0y-CUV/view?usp=sharing) Unpublished paper.
 
 ## Hang
 * Bisin, A. and Verdier, T., 2000. "[“Beyond the melting pot”: cultural transmission, marriage, and the evolution of ethnic and religious traits](https://academic.oup.com/qje/article-pdf/115/3/955/5174966/115-3-955.pdf)". The Quarterly Journal of Economics, 115(3), pp.955-988.
@@ -38,6 +49,5 @@ Slug: Presentations
 ## Not assigned
 * Jha, S., 2013. "[Trade, institutions, and ethnic tolerance: Evidence from South Asia](https://doi.org/10.1017/S0003055413000464)". American political Science review, 107(4), pp.806-832.
 * Kitamura, S. and Lagerlöf, N.P., 2019. "[Geography and State Fragmentation](https://doi.org/10.1093/jeea/jvz032)". Journal of the European Economic Association [(Data)](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvz032/5535419?redirectedFrom=fulltext#supplementary-data)
-* La Ferrara, E., Chong, A. and Duryea, S., 2012. "[Soap operas and fertility: Evidence from Brazil](https://www.aeaweb.org/articles?id=10.1257/app.4.4.1)". American Economic Journal: Applied Economics, 4(4), pp.1-31. [(Data)](https://www.aeaweb.org/aej/app/data/2009-0243_data.zip)
 * Doepke, M. and Zilibotti, F., 2014. "[Culture, entrepreneurship, and growth](https://www.sciencedirect.com/science/article/pii/B9780444535382000010)". In Handbook of economic growth (Vol. 2, pp. 1-48). Elsevier.
 
