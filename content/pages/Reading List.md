@@ -1,6 +1,6 @@
 Title: Reading List
 date: 2019-09-18 13:53
-Author: ozak
+Author: Ömer Özak
 Slug: Reading List
 
 ---#From Stagnation to Growth:
@@ -118,7 +118,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Bisin, A. and Verdier, T., 2001. "[The economics of cultural transmission and the dynamics of preferences](https://www.econ.nyu.edu/user/bisina/bvjet.pdf)". Journal of Economic theory, 97(2), pp.298-319.* Fisman, R. and Miguel, E., 2007. "[Corruption, norms, and legal enforcement: Evidence from diplomatic parking tickets](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/527495)". Journal of Political economy, 115(6), pp.1020-1048.
 * Giuliano, P., 2007. "[Living arrangements in western europe: Does cultural origin matter?](https://www.anderson.ucla.edu/faculty_pages/paola.giuliano/Giuliano_JEEA.2007.pdf)". Journal of the European Economic Association, 5(5), pp.927-952.
 * Fernandez, R. and Fogli, A., 2009. "[Culture: An empirical investigation of beliefs, work, and fertility](https://www.jstor.org/stable/25760263)". American economic journal: Macroeconomics, 1(1), pp.146-77.
-* Giuliano, P. and Spilimbergo, A., 2013. "[Growing up in a Recession](https://www.anderson.ucla.edu/faculty_pages/paola.giuliano/Recession_RESTUD.pdf)". Review of Economic Studies, 81(2), pp.787-817.
+* Giuliano, P. and Spilimbergo, A., 2013. "[Growing up in a Recession](https://www.jstor.org/stable/43551580)". Review of Economic Studies, 81(2), pp.787-817. [(RETRACTED)](https://academic.oup.com/restud/article/81/2/787/1520611)
 * Campante, F. and Yanagizawa-Drott, D., 2015. "[The intergenerational transmission of war](https://www.nber.org/papers/w21371)" (No. w21371). National Bureau of Economic Research.
 * Roland, G. and Yang, D.Y., 2017. "[China's Lost Generation: Changes in Beliefs and Their Intergenerational Transmission](https://www.nber.org/papers/w23441)" (No. w23441). National Bureau of Economic Research.
 * Fernández, R., Parsa, S. and Viarengo, M., 2019. "[Coming Out in America: AIDS, Politics, and Cultural Change](https://www.nber.org/papers/w25697)" (No. w25697). National Bureau of Economic Research.
@@ -134,13 +134,13 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 
 ## Intergenerational Transmission of Culture & Mobility
 * Fulford, S., Petkov, I. and Schiantarelli, F., 2018. "[Does it matter where you came from? Ancestry composition and economic performance of US counties, 1850-2010](https://petkov33.github.io/assets/fps_ancestry.pdf)".
-* Burchardi, K.B., Chaney, T. and Hassan, T.A., 2018. "[Migrants, ancestors, and foreign investments](https://academic.oup.com/restud/article/86/4/1448/5078456)". The Review of Economic Studies, 86(4), pp.1448-1486. [(Replication Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/86/4/10.1093_restud_rdy044/1/rdy044_supplementary_data.zip?Expires=1567612828&Signature=EOIfJY2pVU14saSztj5LXxvfbMTlB3yZ~CeN9RFHrnNUgKla~pPstXPf1NLc79D5s5B-oYpdG0kVIqlMd4251goqeCB91INwqO734DaNVMLJMxq2iBxRZ4xZwoGEiN7FUKpxWgamaOd2f~eSAvDjeyYrMBBIuiCDsVkrASuu4nYgJxmQKz74aKd-itNUHXFVUilxeLMaUzs1dm5SLnHvtaqXMNuFG0Q0aH0OA41TKZiRSRtU7o08dYCmCPLnvlW~HNM9uPzVLKBOS82eNLAV0F6jiSg5-RHdsczQPnoBK9uJoGmsbIjC3hgexwcSkZPi7OPGTvl-3IbxbZacoFRfXg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
-* Burchardi, K.B., Chaney, T., Hassan, T.A., Tarquinio, L. and Terry, S.J., 2019. "[Immigration, Innovation, and Growth]()".
+* Burchardi, K.B., Chaney, T. and Hassan, T.A., 2018. "[Migrants, ancestors, and foreign investments](https://academic.oup.com/restud/article/86/4/1448/5078456)". The Review of Economic Studies, 86(4), pp.1448-1486. [(Replication Data)](https://academic.oup.com/restud/article/86/4/1448/5078456#supplementary-data)
+* Burchardi, K. B., Chaney, T., Hassan, T. A., Tarquinio, L., & Terry, S. J. (2020). [Immigration, innovation, and growth](https://www.nber.org/papers/w27075) NBER WP [No. w27075](https://www.nber.org/system/files/working_papers/w27075/w27075.pdf). National Bureau of Economic Research.
 * Docquier, F., Turati, R., Valette, J. and Vasilakis, C., 2020. [Birthplace diversity and economic growth: Evidence from the US states in the Post-World War II period](https://doi.org/10.1093/jeg/lbz016). Journal of Economic Geography, 20(2), pp.321-354. 
 * Rodríguez-Pose, A. and von Berlepsch, V., 2018. "[Does population diversity matter for economic development in the very long term? Historic migration, diversity and county wealth in the US](https://link.springer.com/article/10.1007/s10680-018-9507-z)". European Journal of Population, pp.1-39.
 * Hatton, T.J. and Ward, Z., 2018. "[International Migration in the Atlantic Economy 1850–1940](https://link.springer.com/content/pdf/10.1007/978-3-642-40458-0_41-1.pdf)". Handbook of Cliometrics, pp.1-29.
 * Giavazzi, F., Petkov, I. and Schiantarelli, F., 2019. "[Culture: Persistence and evolution](https://doi.org/10.1007/s10887-019-09166-2)". Journal of Economic Growth, 24(2), pp.117-154. [(Supplemental Material)](https://link.springer.com/article/10.1007%2Fs10887-019-09166-2#SupplementaryMaterial)
-* Dohmen, T., Falk, A., Huffman, D. and Sunde, U., 2011. "[The intergenerational transmission of risk and trust attitudes](https://doi.org/10.1093/restud/rdr027)". The Review of Economic Studies, 79(2), pp.645-677. [(Replication Data)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/79/2/10.1093_restud_rdr027/1/rdr027-79_2_Sunde_Supplementary_Material.zip?Expires=1567097463&Signature=CkaRVxNbKXjLqgVBgey5RNCBWp9ZVDMXBBCuOhdcZg4NrQs11Ef6co0xOMdQ0GqT-hsFX-QnoxtVtaJ7MybLm18tbwDpAK718ea5rwhdkR8~Vx6tML9UxfzIzANZbSAy6AAohkVrx~Huo9JXu6fGKflrRjxbPit1GwNuFcTYTzjUqBeQdRn7xOvntsEKQwLiTECKmaH-bVFb4mOeblVLLJyxkvEvtngrdsNwArUwWCsgZMxdH4GhACDkZuI5AXeuCOzj2YX64DIuRXAQAsOYf3VCop-R6rqzYkgwBGTOppta7od7k9PQS1X9gqL7mL1eSdLBEHtU~9tleoU8s1LwgA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+* Dohmen, T., Falk, A., Huffman, D. and Sunde, U., 2011. "[The intergenerational transmission of risk and trust attitudes](https://doi.org/10.1093/restud/rdr027)". The Review of Economic Studies, 79(2), pp.645-677. [(Replication Data)](https://academic.oup.com/restud/article/79/2/645/1529541#supplementary-data)
 * Knudsen, A.S.B., 2019. "[Those Who Stayed: Individualism, Self-Selection and Cultural Change during the Age of Mass Migration. Self-Selection and Cultural Change During the Age of Mass Migration](https://annesofiebeckknudsen.com/thosewhostayed/)
 * Black, S.E. and Devereux, P.J., 2011. "[Recent Developments in Intergenerational Mobility](https://doi.org/10.1016/S0169-7218(11)02414-2)". Handbook of Labor Economics, 4, pp.1487-1541.
 
@@ -157,7 +157,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Becker, S.O. and Woessmann, L., 2013. "[Not the opium of the people: Income and secularization in a panel of Prussian counties](https://www.jstor.org/stable/23469790)". American Economic Review, 103(3), pp.539-44. [(Replication Data)](https://www.aeaweb.org/aer/data/may2013/P2013_0117_data.zip)
 * Cojoc, A., 2010. "[After the fall: the impact of government regulation on church attendance in Eastern Europe, 1990–2004](https://www.jstor.org/stable/40541985)". Public Choice, 142(3-4), pp.485-496.
 
-## Religion, Culture and Political Economy
+## Religion, Culture, and Political Economy
 
 * Clingingsmith, D., Khwaja, A.I. and Kremer, M., 2009. "[Estimating the impact of the Hajj: religion and tolerance in Islam's global gathering](https://www.jstor.org/stable/40506254)". The Quarterly Journal of Economics, 124(3), pp.1133-1170.
 * Campante, F. and Yanagizawa-Drott, D., 2015. "[Does religion affect economic growth and happiness? Evidence from Ramadan](https://doi.org/10.1093/qje/qjv002). The Quarterly Journal of Economics, 130(2), pp.615-658. [(Replication Data)](https://academic.oup.com/qje/article/130/2/615/2330341#supplementary-data)
@@ -201,6 +201,8 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Chanda, A., Cook, C.J. and Putterman, L., 2014. "[Persistence of fortune: Accounting for population movements, there was no post-Columbian reversal](https://www.jstor.org/stable/43189587)". American Economic Journal: Macroeconomics, 6(3), pp.1-28. [(Replication data)](https://www.aeaweb.org/aej/mac/data/0603/2013-0032_data.zip)
 * Maloney, W.F. and Valencia Caicedo, F., 2016. "[The persistence of (subnational) fortune](https://academic.oup.com/ej/article-abstract/126/598/2363/5077873)". The Economic Journal, 126(598), pp.2363-2401.
 * Olsson, O. and Paik, C., 2016. "[Long-run cultural divergence: Evidence from the Neolithic Revolution](https://www.sciencedirect.com/science/article/pii/S0304387816300360)". Journal of Development Economics, 122, pp.197-213. [(Replication data)](https://ars.els-cdn.com/content/image/1-s2.0-S0304387816300360-mmc1.zip)
+* Dell, M. and Olken, B.A., [The Development Effects of the Extractive Colonial Economy: The Dutch Cultivation System in Java](https://doi.org/10.1093/restud/rdz017)". The Review of Economic Studies.
+* Feir, D. L., Gillezeau, R., & Jones, M. E. (2022). [The slaughter of the bison and reversal of fortunes on the great plains](https://www.nber.org/papers/w30368) NBER WP [No. w30368](https://www.nber.org/system/files/working_papers/w30368/w30368.pdf). National Bureau of Economic Research.
 
 ##Legal Origins
 * La Porta, R., Lopez-de-Silanes, F. and Shleifer, A., 2008. "[The economic consequences of legal origins](https://scholar.harvard.edu/files/shleifer/files/consequences_jel_final.pdf)". Journal of economic literature, 46(2), pp.285-332. [(Replication data)](https://scholar.harvard.edu/files/shleifer/files/data_2.zips)
@@ -251,7 +253,8 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Ashraf, Quamrul.and Oded Galor (2011), "[Dynamics and Stagnation in the Malthusian Epoch](https://www.aeaweb.org/articles?id=10.1257/aer.101.5.2003)" American Economic Review,  101(5): 2003–2041. [(replication data)](https://www.aeaweb.org/aer/data/aug2011/20081371_data.zip) [(Online Appendix)](https://www.aeaweb.org/aer/data/aug2011/20081371_app.pdf)
 * Michalopoulos, S., Putterman, L. and Weil, D.N., 2019. [The influence of ancestral lifeways on individual economic outcomes in Sub-Saharan Africa](https://doi.org/10.1093/jeea/jvy029). Journal of the European Economic Association, 17(4), pp.1186-1231.
 * Putterman, Louis. 2008. "[Agriculture, Diffusion, and Development: Ripple Effects of the Neolithic Revolution.](https://doi.org/10.1111/j.1468-0335.2007.00652.x)" Economica, 75(300): 729-748
-* Franck, R., Galor O., and Ö. Özak "The Neolithic and Life Expectancy: A Double-Edged Sword"---#State Formation and State Capacity
+* Franck, R., Galor, O., Moav, O., & Özak, Ö. (2022). [The shadow of the neolithic revolution on life expectancy: A double-edged sword](https://www.nber.org/papers/w30221) NBER WP [No. w30221](https://www.nber.org/system/files/working_papers/w30221/w30221.pdf). National Bureau of Economic Research.
+* Dickens, Andrew, and Nils-Petter Lagerlöf. (Forthcoming) [The long-run effects of early agriculture: evidence from carbon dated archaeological sites](http://www.andrew-dickens.com/uploads/8/4/8/8/84882564/carbon_paper_jan2023.pdf). Economic Inquiry.---#State Formation and State Capacity
 * Acemoglu, D., Johnson, S. and Robinson, J.A., 2001. "[The Colonial Origins of Comparative Development: An Empirical Investigation](https://www.jstor.org/stable/41724682)," American Economic Review, American Economic Association, vol. 91(5), pages 1369-1401, December. [(Replication files)](https://economics.mit.edu/faculty/acemoglu/data/ajr2001)
 * Acemoglu Daron, Simon Johnson and Jim Robinson (2002): "[Reversal of Fortune: Geography and Institutions in the Making of the Modern World Income Distribution](https://doi.org/10.1162/003355302320935025)," Quarterly Journal of Economics, 107(4), 1231—1294. [(Replication Files)](https://economics.mit.edu/files/4993)
 * Alesina, Alberto and Enrico Spolaore, "[On the Number and Size of Nations](https://doi.org/10.1162/003355300555411)", Quarterly Journal of Economics, vol. 90(5), pages 1276-1296, November 1997* *Besley, Timothy and Thorsten Persson "[State Capacity, Conflict and Development](https://doi.org/10.3982/ECTA8073)", Econometrica, Volume 78, Issue 1, pages 1–34, January 2010
@@ -281,9 +284,10 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Kitamura, S. and Lagerlöf, N.P., 2019. "[Geography and State Fragmentation](https://doi.org/10.1093/jeea/jvz032)". Journal of the European Economic Association [(Replication Data)](https://academic.oup.com/jeea/advance-article-abstract/doi/10.1093/jeea/jvz032/5535419?redirectedFrom=fulltext#supplementary-data)
 * Moscona, J., Nunn, N. and Robinson, J.A., 2020. [Segmentary Lineage Organization and Conflict in Sub-Saharan Africa](https://www.econometricsociety.org/system/files/16327-4.pdf).
 * Özak, Ö. and Depetris-Chauvin, E., 2020. [Borderline Disorder:(De facto) Historical Ethnic Borders and Contemporary Conflict in Africa](https://osf.io/preprints/africarxiv/uqgxv/).
-* Dickens, A., 2019. "[The Historical Roots of Ethnic Differences: The Role of Geography and Trade](https://brocku.ca/repec/pdf/1901.pdf)" (No. 1901).
+* Dickens, A. (2022). [Understanding ethnolinguistic differences: The roles of geography and trade.](https://academic.oup.com/ej/article-abstract/132/643/953/6354773) The Economic Journal, 132(643), 953-980. [(Replication Data)](https://academic.oup.com/ej/article/132/643/953/6354773#supplementary-data)
+
 
 ---
 # Handbooks & Surveys
 * [Handbook of Economic Growth](https://www.sciencedirect.com/handbook/handbook-of-economic-growth)
-* [Handbook of Cliometrics](https://link.springer.com/referencework/10.1007/978-3-642-40458-0)
+* [Handbook of Cliometrics](https://link.springer.com/referencework/10.1007/978-3-642-40458-0)[Presentations](./Presentations.html)
