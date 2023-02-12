@@ -62,6 +62,7 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 
 ---
 # Software
+
 * [Tikz Cookbook](https://sites.google.com/site/kochiuyu/Tikz) for LaTeX figures.
 * Rochelle Terman's [Introduction To Computational Tools And Techniques For Social Research](https://github.com/rochelleterman/PS239T) online course. Check out her [other repositories](https://github.com/rochelleterman?tab=repositories).
 * [SimuPop](http://simupop.sourceforge.net/Main/HomePage): general-purpose individual-based forward-time population genetics simulation environment
@@ -69,6 +70,23 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 ## Reproducibility
 * [Petting zoo for reproducibility (blog reviewing useful tools)](https://www.natureindex.com/news-blog/a-petting-zoo-for-code-makes-studies-easier-to-reproduce?utm_source=Nature+Briefing&utm_campaign=6bc1c10612-briefing-dy-20190620&utm_medium=email&utm_term=0_c9dfd39373-6bc1c10612-43785633)
 * [Creating workflows in Computational Bio](https://www.nature.com/articles/d41586-019-02619-z?utm_source=Nature+Briefing&utm_campaign=f791742ba3-briefing-dy-20190903&utm_medium=email&utm_term=0_c9dfd39373-f791742ba3-43785633)
+
+##AI-tools
+
+###Editing Text
+* [Grammarly](https://www.grammarly.com/) is a writing tool to improve your writing, helping you identify issues in your text and proposing solutions.
+* [Hemingway Editor](https://hemingwayapp.com/) is a writing tool to improve your writing style.
+* [Lex](https://lex.page/~) is an AI to help you start writing or help to put yoru ideas into words.
+
+###Coding
+* [ChatGPT](https://chat.openai.com/) is a useful AI for coding, improving writing, etc.
+* [Codex](https://openai.com/blog/openai-codex/) is an AI for creating code from natural language.
+
+###Literature Reviews and Related Papers
+* [Litmaps](https://www.litmaps.com/) identify literature of interest, relevant, or related to your research.
+* [Inciteful](https://inciteful.xyz/) helps you discover the most relevant or related literature based on papers of interest.
+* [Research Rabbit](https://researchrabbitapp.com/) identify literature of interest, relevant, or related to your research.
+* [Connected Papers](https://www.connectedpapers.com/) is a unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work.
 
 ---
 # Data

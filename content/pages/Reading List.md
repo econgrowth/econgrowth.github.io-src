@@ -285,6 +285,7 @@ International Regional Science Review, Volume: 22 issue: 2, page(s): 179-232
 * Moscona, J., Nunn, N. and Robinson, J.A., 2020. [Segmentary Lineage Organization and Conflict in Sub-Saharan Africa](https://www.econometricsociety.org/system/files/16327-4.pdf).
 * Özak, Ö. and Depetris-Chauvin, E., 2020. [Borderline Disorder:(De facto) Historical Ethnic Borders and Contemporary Conflict in Africa](https://osf.io/preprints/africarxiv/uqgxv/).
 * Dickens, A. (2022). [Understanding ethnolinguistic differences: The roles of geography and trade.](https://academic.oup.com/ej/article-abstract/132/643/953/6354773) The Economic Journal, 132(643), 953-980. [(Replication Data)](https://academic.oup.com/ej/article/132/643/953/6354773#supplementary-data)
+* Abramson, S. F., Carter, D. B., & Ying, L. (2022). [Historical border changes, state building, and contemporary trust in Europe.](https://www.cambridge.org/core/journals/american-political-science-review/article/historical-border-changes-state-building-and-contemporary-trust-in-europe/363B969350A764C68914A48276B44252) American Political Science Review, 116(3), 875-895.
 
 
 ---
