@@ -23,7 +23,7 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 * Cochrane, J. (2005). ["Writing Tips for Ph. D. Students"](https://faculty.chicagobooth.edu/john.cochrane/research/papers/phd_paper_writing.pdf)
 * Dudenhefer, P. (2009). ["A Guide to Writing in Economics"](http://lupus.econ.duke.edu/ecoteach/undergrad/manual.pdf)
 * Nikolov, P. (2013). ["Writing Tips For Economcis Research papers"](http://www.people.fas.harvard.edu/~pnikolov/resources/writingtips.pdf)
-* Shapiro, J. ["Four Steps to an Applied Micro Paper"](https://www.dropbox.com/s/h4b8xq18rk0yj72/foursteps.pdf?dl=0)
+* Shapiro, J. ["Four Steps to an Applied Micro Paper"](https://scholar.harvard.edu/files/shapiro/files/foursteps.pdf)
 * Claudia Sahm's ["Advice for Job Market Candidates"](http://macromomblog.com/2019/09/01/lets-talk/), [Some more](http://macromomblog.com/2019/09/29/we-need-to-talk-more/)
 
 ## Statistics and Analyses
@@ -70,6 +70,8 @@ about Refereeing.”](http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.8.1.153) Jo
 ## Reproducibility
 * [Petting zoo for reproducibility (blog reviewing useful tools)](https://www.natureindex.com/news-blog/a-petting-zoo-for-code-makes-studies-easier-to-reproduce?utm_source=Nature+Briefing&utm_campaign=6bc1c10612-briefing-dy-20190620&utm_medium=email&utm_term=0_c9dfd39373-6bc1c10612-43785633)
 * [Creating workflows in Computational Bio](https://www.nature.com/articles/d41586-019-02619-z?utm_source=Nature+Briefing&utm_campaign=f791742ba3-briefing-dy-20190903&utm_medium=email&utm_term=0_c9dfd39373-f791742ba3-43785633)
+
+---
 
 ##AI-tools
 

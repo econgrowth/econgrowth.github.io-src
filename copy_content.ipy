@@ -23,12 +23,12 @@ def find(pattern, path):
     return result
 
 # Set path of original files
-%cd EconGrowthPdfs
-path = os.path.abspath('./') + '/'
+#%cd EconGrowthPdfs
+path = os.getenv('HOME') + '/Dropbox/SMU/Teach/GrowthPhD/EconGrowth/EconGrowthPhD-Lectures/'
 
 # Set path of output files
-%cd EconGrowthWebsitePdfs
-pathout = os.path.abspath('./') + '/'
+#%cd EconGrowthWebsitePdfs
+pathout = os.getcwd() + '/content/pdf/'
 
 # Get lecture files and copy and rename them
 slides = find('*Lecture*.pdf', path)
@@ -40,8 +40,8 @@ for i in slides:
     print(j)
     copyfile(i, j)
 
-path_ipynb = path + '../notebooks/'
-pathout_ipynb = pathout + '../notebooks/'
+path_ipynb = pathout + '../notebooks/'
+pathout_ipynb = pathout + '../../../../Macroeconomics.github.io-src/ghpages/content/notebooks/'
 notebooks = find('*ipynb', path_ipynb)
 for i in notebooks:
     if i.find('checkpoints')==-1:
@@ -50,8 +50,16 @@ for i in notebooks:
         print(j)
         copyfile(i, j)
 
+meta = find('*ipynb-meta', path_ipynb)
+for i in meta:
+    if i.find('checkpoints')==-1:
+        j = i.replace(path_ipynb, pathout_ipynb)
+        print(i)
+        print(j)
+        copyfile(i, j)
+
 # Copy notebooks to CompEcon
-path_compecon = '../../../../CompEcon/notebooks/'
+path_compecon = pathout + '../../../../CompEcon/notebooks/'
 for i in notebooks:
     if i.find('checkpoints')==-1:
         j = i.replace(path_ipynb, path_compecon)
