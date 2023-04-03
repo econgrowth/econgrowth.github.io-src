@@ -27,7 +27,7 @@ or download [this file](https://www.dropbox.com/s/a12mskj7f50xq0q/EconGrowth.yml
 If you want a very complete environment
 
 
-	conda create --name GeoPython39env -c conda-forge -c r -c mro --override-channels python=3.9 asciitree autopep8 babel basemap beautifulsoup4 blas bokeh bzip2 cartopy colorcet curl cython cytoolz dask dask-core datashader datashape descartes dill docutils earthengine-api fiona gensim geographiclib geopandas geoplot geopy geotiff google-api-python-client google-auth google-auth-httplib2 georasters imageio imagesize ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab kiwisolver matplotlib-base matplotlib markdown networkx nose numba numpy openpyxl pandas pandas-datareader pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel statsmodels sympy rpy2 rasterio r-tidyr r-tibble r-dplyr rise seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy seaborn swifter theano unidecode urllib3 wikipedia xlrd jupyter_contrib_nbextensions rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng nltk ipympl
+	conda create --name GeoPython39env -c conda-forge -c r -c mro --override-channels python=3.9 asciitree autopep8 babel basemap beautifulsoup4 blas bokeh bzip2 cartopy colorcet curl cython cytoolz dask dask-core datashader datashape descartes dill docutils earthengine-api fiona gensim geographiclib geopandas geoplot geopy geotiff google-api-python-client google-auth google-auth-httplib2 georasters imageio imagesize ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab kiwisolver matplotlib-base matplotlib markdown networkx nose numba numpy openpyxl pandas pandas-datareader pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel statsmodels sympy rpy2 rasterio r-tidyr r-tibble r-dplyr rise seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy seaborn swifter theano unidecode urllib3 wikipedia xlrd jupyter_contrib_nbextensions rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng nltk ipympl pweave python-kaleido graph-tool ipumspy dask-geopandas
 
 Next execute 
 
@@ -53,6 +53,30 @@ Next execute
 This should create an environment with most of the packages we need. We can always install others down the road. 
 
 ``Windows`` users will need to follow [additional instructions](https://kylebarron.dev/stata_kernel/getting_started/) to have the ``Stata`` kernel working.
+
+A. **(Updated and faster install)** instead of using ``conda`` you could instead use the new [``mamba``](https://mamba.readthedocs.io/en/latest/index.html), which provides basically the same methods as ``conda`` but works much faster. Start by downloading and installing the [``mamba`` installer for you system](https://github.com/conda-forge/miniforge#mambaforge). E.g., for Linux and Mac OS you just need to run the following command in teh terminal
+
+	curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+	bash Mambaforge-$(uname)-$(uname -m).sh
+
+then create the environment in the same way as with ``conda``
+
+	mamba create --name GeoPython39env -c conda-forge -c r -c mro --override-channels python=3.9 pandas geopandas georasters dask dask-core dask-geopandas numba cython statsmodels sympy seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy georasters ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab matplotlib-base matplotlib networkx nose numpy openpyxl pandas-datareader unidecode urllib3 wikipedia xlrd
+
+	mamba activate GeoPython39env
+
+	mamba install -c conda-forge -c r -c mro --override-channels basemap beautifulsoup4 blas bokeh bzip2 cartopy colorcet curl datashader datashape descartes dill geographiclib geoplot geopy geotiff
+
+	mamba install -c conda-forge -c r -c mro --override-channels asciitree autopep8 babel docutils earthengine-api gensim google-api-python-client google-auth google-auth-httplib2 kiwisolver markdown pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel  rpy2 r-tidyr r-tibble r-dplyr seaborn swifter theano  rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng pygeos ipympl>=0.9.1 r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse plotly jupyter_nbextensions_configurator markdown-kernel sos-r sos-python sos-bash pweave python-kaleido graph-tool ipumspy
+
+	mamba install -c conda-forge -c r -c mro --override-channels asciitree autopep8 babel docutils earthengine-api gensim google-api-python-client google-auth google-auth-httplib2 kiwisolver markdown pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats seaborn swifter theano html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng pygeos ipympl>=0.9.1 sos-python sos-bash pweave python-kaleido graph-tool ipumspy plotly jupyter_nbextensions_configurator markdown-kernel
+
+	mamba install -c conda-forge -c r -c mro --override-channels r r-base r-irkernel  rpy2 r-tidyr r-tibble r-dplyr rstudio camelot-py r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse sos-r
+
+	pip install linearmodels git+https://github.com/jeetsukumaran/DendroPy.git git+https://github.com/dmsul/econtools ecopy facebook-business facebook-sdk fontawesome-markdown geocoder geonamescache git+https://github.com/ozak/google-drive-downloader googletrans ipystata isodate isounidecode latexcodec ldpred linearmodels lingpy mccabe ordered-set plinkio pyarrow pybtex pycldf pycountry pydocstyle pyface pyflakes pylatex pyparsing pyreadstat pytest-cov python-jsonrpc-server python-language-server pytrends quilt ratelim readme-renderer rfc3986 rope simpledbf simplejson smartypants snowballstemmer snuggs stata-kernel tabulate tex2ipy texsoup toolz traits traitsui twine typogrify uritemplate w3lib webencodings wrapt xlwt yapf modin stargazer covid COVID19Py pandasql mplleaflet scikit-gstat binsreg jupyterlab_imarkdown jupyterlab-markup-expr keplergl RISE stargazer jupyter_contrib_nbextensions
+
+	conda activate $HOME/mamba/envs/GeoPython39env
+	
 
 B. **(Generally not recommended)** download one of the following scripts 
 
@@ -122,7 +146,7 @@ For the ``R-kernel`` to be available you need to open ``R`` and execute
 	IRkernel::installspec()
 
 
-## Running Stata or R in Python
+## Running Stata or R in IPython/Jupyter
 We can also use ``Stata`` or ``R`` directly within ``Python``. You only need to use the ``%magic`` for each after installing the required packages. For example for ``Stata`` you need  [``ipystata``](https://github.com/TiesdeKok/ipystata). Install by executing
 
 	pip install ipystata

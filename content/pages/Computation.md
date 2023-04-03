@@ -16,6 +16,9 @@ In order to use some of the material available on this website and to share your
 
 Additionally, I suggest you read [Gentzkow & Shapiro's *Code and Data for the Social Sciences: A Practitioner’s Guide*](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf) to familiarize yourself with good practices in coding and statistical analysis. We will cover additional topics in class.
 
+---
+# Software
+
 Follow the guides below to have all the software and resources we will use.
 
 * **[Computation with Python, R, Julia, etc. using Anaconda](./Install Anaconda.html)**
