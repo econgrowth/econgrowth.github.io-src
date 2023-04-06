@@ -61,21 +61,27 @@ A. **(Updated and faster install)** instead of using ``conda`` you could instead
 
 then create the environment in the same way as with ``conda``
 
-	mamba create --name GeoPython39env -c conda-forge -c r -c mro --override-channels python=3.9 pandas geopandas georasters dask dask-core dask-geopandas numba cython statsmodels sympy seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy georasters ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab matplotlib-base matplotlib networkx nose numpy openpyxl pandas-datareader unidecode urllib3 wikipedia xlrd
+	mamba create --name GeoPython310env -c conda-forge -c r -c mro --override-channels python=3.10 pandas geopandas georasters dask dask-core dask-geopandas numba cython statsmodels sympy seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy georasters ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab matplotlib-base matplotlib networkx nose numpy openpyxl pandas-datareader unidecode urllib3 wikipedia xlrd git
 
-	mamba activate GeoPython39env
+	mamba activate GeoPython310env
 
 	mamba install -c conda-forge -c r -c mro --override-channels basemap beautifulsoup4 blas bokeh bzip2 cartopy colorcet curl datashader datashape descartes dill geographiclib geoplot geopy geotiff
 
-	mamba install -c conda-forge -c r -c mro --override-channels asciitree autopep8 babel docutils earthengine-api gensim google-api-python-client google-auth google-auth-httplib2 kiwisolver markdown pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel  rpy2 r-tidyr r-tibble r-dplyr seaborn swifter theano  rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng pygeos ipympl>=0.9.1 r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse plotly jupyter_nbextensions_configurator markdown-kernel sos-r sos-python sos-bash pweave python-kaleido graph-tool ipumspy
+	mamba install -c conda-forge -c r -c mro --override-channels asciitree autopep8 babel docutils earthengine-api gensim google-api-python-client google-auth google-auth-httplib2 kiwisolver markdown pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel  rpy2 r-tidyr r-tibble r-dplyr seaborn swifter theano  rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel pygeos ipympl r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse plotly jupyter_nbextensions_configurator markdown-kernel sos-r sos-python sos-bash pweave python-kaleido graph-tool
 
-	mamba install -c conda-forge -c r -c mro --override-channels asciitree autopep8 babel docutils earthengine-api gensim google-api-python-client google-auth google-auth-httplib2 kiwisolver markdown pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats seaborn swifter theano html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel libgfortran-ng pygeos ipympl>=0.9.1 sos-python sos-bash pweave python-kaleido graph-tool ipumspy plotly jupyter_nbextensions_configurator markdown-kernel
+	pip install linearmodels git+https://github.com/jeetsukumaran/DendroPy.git git+https://github.com/dmsul/econtools ecopy facebook-business facebook-sdk fontawesome-markdown geocoder geonamescache git+https://github.com/ozak/google-drive-downloader googletrans ipystata isodate isounidecode latexcodec ldpred linearmodels lingpy mccabe ordered-set plinkio pyarrow pybtex pycldf pycountry pydocstyle pyface pyflakes pylatex pyparsing pyreadstat pytest-cov python-jsonrpc-server python-language-server pytrends quilt ratelim readme-renderer rfc3986 rope simpledbf simplejson smartypants snowballstemmer snuggs stata-kernel tabulate tex2ipy texsoup toolz traits traitsui twine typogrify uritemplate w3lib webencodings wrapt xlwt yapf modin stargazer covid COVID19Py pandasql mplleaflet scikit-gstat binsreg jupyterlab_imarkdown jupyterlab-markup-expr keplergl RISE stargazer jupyter_contrib_nbextensions ipumsy
+	
+	python -m stata_kernel.install
+	r -e "IRkernel::installspec()"
 
-	mamba install -c conda-forge -c r -c mro --override-channels r r-base r-irkernel  rpy2 r-tidyr r-tibble r-dplyr rstudio camelot-py r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse sos-r
 
-	pip install linearmodels git+https://github.com/jeetsukumaran/DendroPy.git git+https://github.com/dmsul/econtools ecopy facebook-business facebook-sdk fontawesome-markdown geocoder geonamescache git+https://github.com/ozak/google-drive-downloader googletrans ipystata isodate isounidecode latexcodec ldpred linearmodels lingpy mccabe ordered-set plinkio pyarrow pybtex pycldf pycountry pydocstyle pyface pyflakes pylatex pyparsing pyreadstat pytest-cov python-jsonrpc-server python-language-server pytrends quilt ratelim readme-renderer rfc3986 rope simpledbf simplejson smartypants snowballstemmer snuggs stata-kernel tabulate tex2ipy texsoup toolz traits traitsui twine typogrify uritemplate w3lib webencodings wrapt xlwt yapf modin stargazer covid COVID19Py pandasql mplleaflet scikit-gstat binsreg jupyterlab_imarkdown jupyterlab-markup-expr keplergl RISE stargazer jupyter_contrib_nbextensions
+You can then use the envronment with
 
-	conda activate $HOME/mamba/envs/GeoPython39env
+	conda activate $HOME/mamba/envs/GeoPython310env
+	
+or
+
+	mamba activate GeoPython310env
 	
 
 B. **(Generally not recommended)** download one of the following scripts 
