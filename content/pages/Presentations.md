@@ -24,6 +24,8 @@ Slug: Presentations
 * Le Rossignol, E., & Lowes, S. (2022). [Ancestral Livelihoods and Moral Universalism: Evidence from Transhumant Pastoralist Societies](https://www.nber.org/papers/w30259) NBER WP [No. w30259](https://www.nber.org/system/files/working_papers/w30259/w30259.pdf). National Bureau of Economic Research.
 * Cao, Y., Enke, B., Falk, A., Giuliano, P., & Nunn, N. (2021). [Herding, Warfare, and a Culture of Honor: Global Evidence](https://www.nber.org/papers/w29250) NBER WP [No. w29250](https://www.nber.org/system/files/working_papers/w29250/w29250.pdf). National Bureau of Economic Research.
 * Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva. (2022). [Zero-Sum Thinking and the Roots of US Political Divides](https://nathannunn.sites.olt.ubc.ca/files/2022/12/Zero_Sum_US_Political_Divides.pdf)
+* Anastasia Litina, Èric Roca Fernández (2023). [Solar Eclipses and the Origins of Critical Thinking and Complexity](https://doi.org/10.1093/ej/uead117), The Economic Journal
+* Dessi, R., Ren, J., & Zhao, X. (2023). [Shame, Guilt, and Motivated Self-Confidence](http://monash-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mos/moswps/2023-24.pdf) (No. 2023-24). Monash University, Department of Economics.
 
 ## Racism
 * Ang, D. (2022). [The Birth of a Nation: Media and Racial Hate.](https://scholar.harvard.edu/files/ang/files/ang_birthofanation_july2022.pdf)
@@ -43,6 +45,7 @@ Slug: Presentations
 * Abramitzky, R., Boustan, L., & Eriksson, K. (2020). [Do immigrants assimilate more slowly today than in the past?.](https://www.aeaweb.org/articles?id=10.1257/aeri.20190079) American Economic Review: Insights, 2(1), 125-141.
 * Abramitzky, R., Boustan, L. P., & Eriksson, K. (2012). [Europe's tired, poor, huddled masses: Self-selection and economic outcomes in the age of mass migration.](https://www.aeaweb.org/articles?id=10.1257/aer.102.5.1832) American Economic Review, 102(5), 1832-1856.
 * Abramitzky, R., Boustan, L. P., & Eriksson, K. (2014). [A nation of immigrants: Assimilation and economic outcomes in the age of mass migration.](https://www.journals.uchicago.edu/doi/abs/10.1086/675805) Journal of Political Economy, 122(3), 467-506.
+* Obolensky, M., Tabellini, M., & Taylor, C. A. (2024). [Homeward Bound: How Migrants Seek Out Familiar Climates](https://ideas.repec.org/p/iza/izadps/dp16710.html) (No. 16710). Institute of Labor Economics (IZA).
 
 ## Books, Ideas, and Human Capital
 * Grajzl, P., & Murrell, P. (2023). [A Macroscope of English Print Culture, 1530-1700, Applied to the Coevolution of Ideas on Religion, Science, and Institutions. Applied to the Coevolution of Ideas on Religion, Science, and Institutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4336537) (January 24, 2023).
@@ -51,6 +54,7 @@ Slug: Presentations
 * Chaney, E. (2020). [Modern Library Holdings and Historic City Growth.](https://drive.google.com/open?id=1rHvZbHydajKtaMpqnj_hxmvd68DH36UV)
 * Dittmar, J. E. (2011). [Information technology and economic change: the impact of the printing press.](https://academic.oup.com/qje/article-abstract/126/3/1133/1855353) The Quarterly Journal of Economics, 126(3), 1133-1172.
 * Islam, A., Jedwab, R., Romer, P., & Pereira, D. (2019). [Returns to Experience and the Sectoral Misallocation of Labor across Sectors, Occupations, Locations and Cities](https://www.remijedwab.com/_files/ugd/ea9b22_f4b65d15833a4ca0ad1420bc62f77243.pdf)
+* Almelhem, A., Iyigun, M., Kennedy, A., & Rubin, J. (2023). [Enlightenment Ideals and Belief in Progress in the Run-up to the Industrial Revolution: A Textual Analysis.](https://digitalcommons.chapman.edu/cgi/viewcontent.cgi?article=1393&context=esi_working_papers)
 
 ## Religion 
 * Arya, Y., & Chaudhary, A. (2021). [Resisting Modernisation due to Foreign Occupation: The Role of Religious Identity.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3945580) Available at SSRN 3945580.
@@ -58,6 +62,8 @@ Slug: Presentations
 * Blasutto, F., & De la Croix, D. (2021). [Catholic censorship and the demise of knowledge production in early modern Italy.](https://perso.uclouvain.be/david.delacroix/pdf/prohibitorum.pdf)
 * Chaney, E. (2016). [Religion and the rise and fall of Islamic science.](https://drive.google.com/open?id=0B3KR-Nt6eQwSVmQ1d19vcF90aTA) Work. Pap., Dep. Econ., Harvard Univ., Cambridge, MA.
 * Dulay, D. (2022). [The search for spices and souls: Catholic missions as colonial state in the philippines.](https://journals.sagepub.com/doi/pdf/10.1177/00104140211066222?casa_token=3ZQfhuSQa3AAAAAA:_GLY_4pF61tFfRdgLSBQQGip8M3ZYx6pahTAZn-sfdad5IQKOnD9rniE7-TvIw1VLJBjdRvGNLyQ) Comparative Political Studies, 55(12), 2050-2085.
+* Nunn, N. (2010). [Religious conversion in colonial Africa](https://www.jstor.org/stable/pdf/27804980.pdf?casa_token=zfZgCMRFO80AAAAA:qzc70rUklCPAjqGrOTavEbmvWWNslX1LBZV1z1rBUaB4kDTeAYUeyplP9iba2pNBUzOMbKQXU9ZVa8XOD2yH25-MejBHjaiWzPx5nR5_BYl3e2fzqwc). American Economic Review, 100(2), 147-152.
+* Barro, R., Hwang, J., & McCleary, R. (2010). [Religious conversion across countries](https://www.nber.org/system/files/working_papers/w32046/w32046.pdf). NBER WP 32046.
 
 # Institutions
 * Acemoglu, D., Ajzenman, N., Aksoy, C. G., Fiszbein, M., & Molina, C. A. (2021). [(Successful) democracies breed their own support](https://www.nber.org/papers/w29167) NBER WP [No. w29167](https://www.nber.org/system/files/working_papers/w29167/w29167.pdf). National Bureau of Economic Research.

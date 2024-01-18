@@ -16,7 +16,7 @@ Don't you sometimes wish you had a time machine? Well, now you can! At least for
 
 Sign-up for GitHub Account
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-In a web browser open [GitHub's webpage](https://github.com/) and select the `Signup for GitHub` option and follow the steps to create your account. You can use your personal or institutional `edu` email (or both). I suggest using your  `XXX@YYY.edu` email to ensure you get all the educational benefits.
+In a web browser open [GitHub's webpage](https://github.com/) and select the `Signup for GitHub` option and follow the steps to create your account. You can use your personal or institutional `edu` email (or both). I suggest using your  `XXX@YYY.edu` email to ensure you get all the educational benefits. **Note**: You can create the account with your personal email and request educational benefits afterwards also (a bit more involved, but you will not have to change email accounts if you change/leave institutions).
 
 [![sign-up-github](https://github.com/SMU-Economic-Growth-and-Development/assignment-1-starting-with-github-WilliamJCunningham/raw/master/pics/sign-up-github.png)](https://github.com/)
 

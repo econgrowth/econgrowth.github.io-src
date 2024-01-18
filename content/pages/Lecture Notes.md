@@ -12,7 +12,7 @@ Below are the lecture notes for the class. You can download the pdf's or see onl
 * [Lecture Notes 5](/pdf/Lecture-5-Human-Evolution-and-Growth.pdf): Human Evolution and Growth
 * [Lecture Notes 6](/pdf/Lecture-6-GIS.pdf): What is GIS? My workflow with GIS
 * [Lecture Notes 7](/pdf/Lecture-7-Geographical-Roots-of-CD.pdf): Geographical Roots of Comparative Development
-* [Lecture Notes 8](/pdf/Lecture-8-Geographical-Origins-of-Cultural-Traits.pdf): Geographical Origins of Cultural Traits
+* [Lecture Notes 8](/pdf/Lecture-8-Agricultural-Origins-of-Future-Orientation.pdf): Geographical Origins of Cultural Traits
 * [Lecture Notes 9](/pdf/Lecture-9-Origins-and-Effects-of-Language.pdf): Geographical Origins and Economic Consequences of Language Structures
 * [Lecture Notes 10](/pdf/Lecture-10-Geographical-Isolation-and-Development.pdf): Geographical Isolation and Comparative Development
 * [Lecture Notes 11](/pdf/Lecture-11-Genetic-Diversity-and-CD.pdf): Cultural Diversity and Comparative Development
