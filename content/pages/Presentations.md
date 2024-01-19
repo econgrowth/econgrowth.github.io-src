@@ -16,6 +16,7 @@ Slug: Presentations
 * Fernández, R., & Parsa, S. (2022). [Gay Politics Goes Mainstream: Democrats, Republicans and Same‐sex Relationships.](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecca.12404) Economica, [89, S86-S109](https://drive.google.com/file/d/10IgtHjIRKOgIRuxI06X_FNuWVht_Jwdv/view).
 * Fernández, R., Parsa, S., & Viarengo, M. (2021). [Coming out in America: thirty years of cultural change.](https://drive.google.com/file/d/1naN0ZfXo_53RIBmCw7eWGOTE8N0y-CUV/view?usp=sharing) Unpublished paper.
 * Caprettini, B., & Voth, H. J. (2023). [New Deal, New Patriots: How 1930s Government Spending Boosted Patriotism During World War II](https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjac028/6623686). The Quarterly Journal of Economics, 138(1), 465-513.
+* Gulesci, S., Lombardi, M., & Ramos, A. (2023). [Telenovelas and attitudes toward the LGBTQ+ community in Latin America](https://www.sciencedirect.com/science/article/pii/S092753712300163X?casa_token=jF8TsKPR8xkAAAAA:homzai322Imul1i80AG2GC20635eNYjGE-rApoO7OW2T71UGVtTNhaROvnp3eeKz5EjcG45Ucg). Labour Economics, 102488.
 
 ## Deep-Roots of Culture, Persistence, and Effects
 * Enke, B. (2019). [Kinship, cooperation, and the evolution of moral systems.](https://academic.oup.com/qje/article-abstract/134/2/953/5288003) The Quarterly Journal of Economics, 134(2), 953-1019.
@@ -26,6 +27,8 @@ Slug: Presentations
 * Sahil Chinoy, Nathan Nunn, Sandra Sequeira, Stefanie Stantcheva. (2022). [Zero-Sum Thinking and the Roots of US Political Divides](https://nathannunn.sites.olt.ubc.ca/files/2022/12/Zero_Sum_US_Political_Divides.pdf)
 * Anastasia Litina, Èric Roca Fernández (2023). [Solar Eclipses and the Origins of Critical Thinking and Complexity](https://doi.org/10.1093/ej/uead117), The Economic Journal
 * Dessi, R., Ren, J., & Zhao, X. (2023). [Shame, Guilt, and Motivated Self-Confidence](http://monash-econ-wps.s3-ap-southeast-2.amazonaws.com/RePEc/mos/moswps/2023-24.pdf) (No. 2023-24). Monash University, Department of Economics.
+* Bazzi, S., Brodeur, A., Fiszbein, M., & Haddad, J. (2023). [Frontier History and Gender Norms in the United States](https://www.nber.org/system/files/working_papers/w31079/w31079.pdf) (No. w31079). National Bureau of Economic Research.
+* Brodeur, A., & Haddad, J. (2021). [Institutions, attitudes and LGBT: Evidence from the gold rush](https://www.sciencedirect.com/science/article/pii/S0167268121001621?casa_token=kTrv3U3AOUEAAAAA:qfQZASdYUvROYdy4ioAcvCfueUmqOSAUnWuj4nRzJCDRNIaJzOjABZEYgDnTQqa7ydzvgVC0MQ). Journal of Economic Behavior & Organization, 187, 92-110. [(WP)](https://drive.google.com/file/d/1Bbu3BUr7Fqr3WbZvHZathgXrycFvPlWf/view?usp=drive_web)
 
 ## Racism
 * Ang, D. (2022). [The Birth of a Nation: Media and Racial Hate.](https://scholar.harvard.edu/files/ang/files/ang_birthofanation_july2022.pdf)
