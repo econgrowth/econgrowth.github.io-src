@@ -1,4 +1,4 @@
-Title: Docker
+Title: Using Docker for computation
 Slug: Docker
 Category: Computation, Dynamic Programming, IPythonmain
 date: 2024-02-17 12:00
@@ -6,8 +6,6 @@ Tags: Computation, IPython, Python, QGIS
 Author: Ömer Özak
 
 ---
-
-# Using Docker for computation
 
 **[Docker](https://www.docker.com/)** is an open platform for developing, shipping, and running applications. While originally created for software and app production, it is very useful for scientists to generate replicable environments for use. So we can use **[Docker](https://www.docker.com/)** to create environments for our own use, or to share our research with others. If you are interested in more technical details, you can learn more about **[Docker](https://www.docker.com/)** [here](https://docs.docker.com/get-started/overview/).
 
