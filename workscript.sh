@@ -39,11 +39,11 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "updated computation"
+git commit -m "added docker"
 git push -u origin master
 cd ..
 git add .
-git commit -m "updated computation"
+git commit -m "added docker"
 git push -u origin master
 
 # Publish and git commit

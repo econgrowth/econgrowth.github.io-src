@@ -24,6 +24,7 @@ Follow the guides below to have all the software and resources we will use.
 * **[How to create a <i class="fa fa-github fa-1x"></i>GitHub account](./Create a Github Account.html)**
 * **[How to create a Deepnote account](./create_deepnote_account.html)**
 * **[Computation with Python, R, Julia, etc. using Anaconda](./Install Anaconda.html)**
+* **[Computation using Docker](./Docker.html)**
 * **[Analyzing and Mapping Geographic Information System Data with QGIS](./Install QGIS.html)**
 * **[Creating and Backing-up Stata Environment](./Stata Packages.html)**
 * **[Creating and Editing Documents, Websites, etc.](./Editors.html)**
@@ -36,7 +37,9 @@ To use the notebooks below, you can:
 
 * **(Easy - Online no install required)** Click on [![](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://deepnote.com/join-team?token=2faf882f7ae14a5) and join the [project's workspace](https://deepnote.com/join-team?token=2faf882f7ae14a5). You will be able to run the code on the web. If you want to edit the code for your own use, you can clone the workspace (you will need to register, which is free - especially if you have an educational email account)
 * **(Easy - Online no install required)** Click on [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SMU-Econ-Growth/EconGrowthUG-binder/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FSMU-Econ-Growth%252FEconGrowthUG-Notebooks%26urlpath%3Dtree%252FEconGrowthUG-Notebooks%252F%26branch%3Dmain) 
-* **(A bit more complex - needs installation and runs on your computer)** Follow the instructions in [this page](./Install Anaconda.html).
+* **(A bit more complex - needs installation and runs on your computer)** 
+	* Use [Docker](./Docker.html)
+	* Use [Anaconda](./Install Anaconda.html).
 
 #[Notebooks & Slides](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks)
 
