@@ -52,9 +52,10 @@ To use the notebooks below, you can:
 ## Data Analysis
 
 1. Introduction to Data Analysis with Pandas [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Intro-Data-Analysis-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/Intro-Data-Analysis-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Intro-Data-Analysis-Pandas/)
-2. More Economic Data Analysis [(Notebook)](/notebooks/EconomicDataAnalysis.ipynb) [(html)](/Economic Data Analysis.html)
+2. More Economic Data Analysis with Pandas [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/More-Economic-Data-Analysis-with-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/More-Economic-Data-Analysis-with-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/)
 3. Working with World Development Indicators [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
 4. Working with Penn World Table [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
+5. Working with GapMinder [(Notebook)](./Working-with-GapMinder.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/Working-with-GapMinder.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/)
 
 ## GIS
 1. GIS with QGIS [(Notebook)](/notebooks/GIS.ipynb) [(html)](/GIS with QGIS.html) 

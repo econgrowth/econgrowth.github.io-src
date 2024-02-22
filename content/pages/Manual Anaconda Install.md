@@ -19,7 +19,11 @@ Since the basic installation may not have all the packages you need and it is al
 
 A. **(Recommended)** In a terminal window execute
 
-	mamba create --name GeoPython10env -c conda-forge -c r --override-channels python=3.10 georasters geopandas pandas spatialpandas statsmodels xlrd networkx ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab kiwisolver matplotlib-base matplotlib scikit-image scikit-learn scipy seaborn geoplot geopy geotiff pycountry nb_conda_kernels stata_kernel nltk ipympl
+	mamba create --name GeoPython310env -c conda-forge -c r --override-channels python=3.10 georasters geopandas pandas spatialpandas statsmodels xlrd networkx ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab kiwisolver matplotlib-base matplotlib scikit-image scikit-learn scipy seaborn geoplot geopy geotiff pycountry nb_conda_kernels stata_kernel nltk ipympl ipumspy plotnine 
+	
+	mamba activate GeoPython310env
+
+	pip install RISE jupyterlab-rise stargazer rdrobust pyfixest lets-plot isounidecode
 	
 or download [this file](https://www.dropbox.com/s/a12mskj7f50xq0q/EconGrowth.yml?dl=0) and import it into the Anconda Navigator [(see here)](https://docs.anaconda.com/anaconda/navigator/tutorials/manage-environments/#importing-an-environment).
 
@@ -28,8 +32,10 @@ If you want a very complete environment
 
 
 	mamba create --name GeoPython310env -c conda-forge -c r --override-channels python=3.10 asciitree autopep8 babel basemap beautifulsoup4 blas bokeh bzip2 cartopy colorcet curl cython cytoolz dask dask-core datashader datashape descartes dill docutils earthengine-api fiona gensim geographiclib geopandas geoplot geopy geotiff google-api-python-client google-auth google-auth-httplib2 georasters imageio imagesize ipykernel ipyparallel ipython ipython_genutils ipywidgets jupyter jupyterlab kiwisolver matplotlib-base matplotlib markdown networkx nose numba numpy openpyxl pandas pandas-datareader pandoc pandocfilters pandana pelican pycountry pymc3 pysal urbanaccess rasterstats r r-base r-irkernel statsmodels sympy rpy2 rasterio r-tidyr r-tibble r-dplyr seaborn scikit-allel scikit-bio scikit-image scikit-learn scipy seaborn swifter theano unidecode urllib3 wikipedia xlrd rstudio camelot-py html5lib ghostscript plotnine nodejs nb_conda_kernels stata_kernel ipympl r-lazyeval r-ggplot2 r-pacman r-fixest r-tidyverse plotly jupyter_nbextensions_configurator markdown-kernel sos-r sos-python sos-bash pweave python-kaleido graph-tool ipumspy dask-geopandas multiprocess fuzzywuzzy
+	
+	mamba activate GeoPython310env
 
-	pip install linearmodels git+https://github.com/jeetsukumaran/DendroPy.git git+https://github.com/dmsul/econtools ecopy facebook-business facebook-sdk fontawesome-markdown geocoder geonamescache git+https://github.com/ozak/google-drive-downloader googletrans ipystata isodate isounidecode latexcodec ldpred linearmodels lingpy mccabe ordered-set plinkio pyarrow pybtex pycldf pycountry pydocstyle pyface pyflakes pylatex pyparsing pyreadstat pytest-cov python-jsonrpc-server python-language-server pytrends quilt ratelim readme-renderer rfc3986 rope simpledbf simplejson smartypants snowballstemmer snuggs stata-kernel tabulate tex2ipy texsoup toolz traits traitsui twine typogrify uritemplate w3lib webencodings wrapt xlwt yapf modin stargazer covid COVID19Py pandasql mplleaflet scikit-gstat binsreg jupyterlab_imarkdown jupyterlab-markup-expr keplergl RISE stargazer jupyter_contrib_nbextensions rdrobust pyfixest lets-plot jupyter_nbextensions_configurator
+	pip install linearmodels git+https://github.com/jeetsukumaran/DendroPy.git git+https://github.com/dmsul/econtools ecopy facebook-business facebook-sdk fontawesome-markdown geocoder geonamescache git+https://github.com/ozak/google-drive-downloader googletrans ipystata isodate isounidecode latexcodec ldpred linearmodels lingpy mccabe ordered-set plinkio pyarrow pybtex pycldf pycountry pydocstyle pyface pyflakes pylatex pyparsing pyreadstat pytest-cov python-jsonrpc-server python-language-server pytrends quilt ratelim readme-renderer rfc3986 rope simpledbf simplejson smartypants snowballstemmer snuggs stata-kernel tabulate tex2ipy texsoup toolz traits traitsui twine typogrify uritemplate w3lib webencodings wrapt xlwt yapf modin stargazer covid COVID19Py pandasql mplleaflet scikit-gstat binsreg jupyterlab_imarkdown jupyterlab-markup-expr keplergl RISE jupyterlab-rise stargazer jupyter_contrib_nbextensions rdrobust pyfixest lets-plot jupyter_nbextensions_configurator
 	pip install --upgrade --user stata_setup
 	conda update --all -c conda-forge -c r -c mro
 	python -m stata_kernel.install
