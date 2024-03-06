@@ -22,7 +22,7 @@ Additionally, I suggest you read [Gentzkow & Shapiro's *Code and Data for the So
 Follow the guides below to have all the software and resources we will use.
 
 * **[How to create a <i class="fa fa-github fa-1x"></i>GitHub account](./Create Github Account.html)**
-* **[How to create a Deepnote account](./create_deepnote_account.html)**
+* **[How to create a Deepnote account](./Create Deepnote Account.html)**
 * **[Computation with Python, R, Julia, etc. using Anaconda](./Install Anaconda.html)**
 * **[Computation using Docker](./Docker.html)**
 * **[Analyzing and Mapping Geographic Information System Data with QGIS](./Install QGIS.html)**
