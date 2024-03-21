@@ -39,11 +39,11 @@ git push -u origin master
 # Publish and git commit
 cd output
 git add .
-git commit -m "updated computing"
+git commit -m "updated lectures"
 git push -u origin master
 cd ..
 git add .
-git commit -m "updated computing"
+git commit -m "updated lectures"
 git push -u origin master
 
 # Publish and git commit
