@@ -55,22 +55,22 @@ To use the notebooks below, you can:
 2. More Economic Data Analysis with Pandas [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/More-Economic-Data-Analysis-with-Pandas.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/More-Economic-Data-Analysis-with-Pandas.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-More-Economic-Data-Analysis-with-Pandas/)
 3. Working with World Development Indicators [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-WDI.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/Working-with-WDI.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-WDI/)
 4. Working with Penn World Table [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-PWT.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/Working-with-PWT.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-PWT/)
-5. Working with GapMinder [(Notebook)](./Working-with-GapMinder.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/Working-with-GapMinder.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/)
+5. Working with GapMinder [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Working-with-GapMinder.ipynb) [(html)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/Working-with-GapMinder.html) [(slides)](https://smu-econ-growth.github.io/EconGrowthUG-Slides-Working-with-GapMinder/)
 
 ## GIS
-1. GIS with QGIS [(Notebook)](/notebooks/GIS.ipynb) [(html)](/GIS with QGIS.html) 
-2. GIS with Python - Geometries [(Notebook)](/notebooks/GIS-with-Python.ipynb) [(html)](/GIS with Python.html) 
-3. GIS with Python - Rasters [(Notebook)](/notebooks/GIS-with-Python-2.ipynb) [(html)](/GIS with Python 2.html) 
-4. GIS with Python - Data Munging [(Notebook)](/notebooks/GIS-with-Python-3.ipynb) [(html)](/GIS with Python 3.html) 
+1. GIS with QGIS [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/GIS.ipynb) [(html)](/GIS with QGIS.html) 
+2. GIS with Python - Geometries [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/GIS-with-Python.ipynb) [(html)](/GIS with Python.html) 
+3. GIS with Python - Rasters [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/GIS-with-Python-2.ipynb) [(html)](/GIS with Python 2.html) 
+4. GIS with Python - Data Munging [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/GIS-with-Python-3.ipynb) [(html)](/GIS with Python 3.html) 
 
 ## Basic Economic Modelling
-1. Introduction to CGE [(Notebook)](/notebooks/IntroCGE.ipynb) [(html)](/IntroCGE.html) 
-2. Dynamic Programming in Python [(Notebook)](/notebooks/DynamicProgramming.ipynb) [(html)](/Dynamic Programming.html) 
-3. Faster Dynamic Programming with Numba [(Notebook)](Faster-Computation-with-Numba.ipynb) [(html)](/Dynamic Programming Numba.html) 
+1. Introduction to CGE [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/IntroCGE.ipynb) [(html)](/IntroCGE.html) 
+2. Dynamic Programming in Python [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/DynamicProgramming.ipynb) [(html)](/Dynamic Programming.html) 
+3. Faster Dynamic Programming with Numba [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Faster-Computation-with-Numba.ipynb) [(html)](/Dynamic Programming Numba.html) 
 
 ## Stata and R
-1. Stata Jupyter Notebooks (Stata kernel) [(Notebook)](/notebooks/Stata-Notebook-Example.ipynb) [(html)](/Stata Notebook Example.html) 
-2. Stata in a Python Jupyter Notebook (ipystata) [(Notebook)](/notebooks/Stata-in-Python Notebook.ipynb) [(html)](/Stata in Python Notebook.html) 
+1. Stata Jupyter Notebooks (Stata kernel) [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Stata-Notebook-Example.ipynb) [(html)](/Stata Notebook Example.html) 
+2. Stata in a Python Jupyter Notebook (ipystata) [(Notebook)](https://github.com/SMU-Econ-Growth/EconGrowthUG-Notebooks/blob/main/Stata-in-Python Notebook.ipynb) [(html)](/Stata in Python Notebook.html) 
 
 
 ## Older Material
