@@ -12,7 +12,8 @@ Author: Ömer Özak
 The following steps explain how you can use **Docker containers and images** to create or run code on your computer, as well as instruction on how to create your own **Docker containers and images** using **Dockerfiles**. 
 
 ## Get Docker
-<center><iframe src="https://docs.docker.com/get-docker/" title="Get Docker" width=90% height=1000px></iframe></center>
+
+Download [Docker](https://docs.docker.com/get-docker/) for your operating system (OS).
 
 
 ## Using Docker
