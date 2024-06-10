@@ -10,6 +10,7 @@ Author: Ömer Özak
 
 # Step-by-step guide
 --
+
 1.  Head over to [Deepnote](https://deepnote.com/) and click on [Get Started](https://deepnote.com/sign-up). 
  
    ![1-Deepnote-website.png](../images/pics/canvas_uploaded_img/1-Deepnote-website.png)  
@@ -20,14 +21,13 @@ Author: Ömer Özak
     ![2-Deepnote-signup.png](../images/pics/canvas_uploaded_img/2-Deepnote-signup.png)  
       
     
-3.  Sign up using your email address. **If you use an .EDU email we recommend using it**. Make sure to follow the instructions and prove you are a human!  
-
-    ![3-Deepnote-signup-SMU-email.png](../images/pics/canvas_uploaded_img/3-Deepnote-signup-SMU-email.png)  
+3.  Sign up using your email address. Make sure to follow the instructions and prove you are a human!
 
 <div class="alert alert-block alert-info">
-<b>Tip:</b> FYI, you can use your GMAIL or personal email account if you prefer. Then use your institutional **.EDU** email account to verify your educational status and still get the free tools and account upgrades (See section after step 9). The only difference (as far as I can tell) is how you log in.
-</div>
-      
+<b>Tip:</b> You can use your GMAIL  (Recommended) or personal email account. Then use your institutional <b>.EDU<b/> email account to verify your educational status (Select Education in the next screen) and get the free tools and account upgrades (See section after step 9). The only difference (as far as I can tell) is how you log in.
+</div>  
+
+   ![3-Deepnote-signup-SMU-email.png](../images/pics/canvas_uploaded_img/3-Deepnote-signup-SMU-email.png)        
     
 4.  The system will send you an email to verify your account. Open your email inbox and click on the "Sign in now" image/button in the email from Deepnote. If you did not get one, check your Junk Mail Folder.  
 
