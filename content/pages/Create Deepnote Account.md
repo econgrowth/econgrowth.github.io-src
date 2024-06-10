@@ -12,7 +12,7 @@ Author: Ömer Özak
 --
 1.  Head over to [Deepnote](https://deepnote.com/) and click on [Get Started](https://deepnote.com/sign-up). 
  
-    ![1-Deepnote-website.png](../images/pics/canvas_uploaded_img/1-Deepnote-website.png)  
+   ![1-Deepnote-website.png](../images/pics/canvas_uploaded_img/1-Deepnote-website.png)  
       
     
 2.  Click. on Sign up with email.  
