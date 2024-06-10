@@ -9,7 +9,7 @@ Author: Ömer Özak
 [Deepnote](https://deepnote.com/) is a (free) online computational notebook service.
 
 # Step-by-step guide
---
+---
 
 1.  Head over to [Deepnote](https://deepnote.com/) and click on [Get Started](https://deepnote.com/sign-up). 
  
@@ -69,9 +69,9 @@ Author: Ömer Özak
 You should be all set to start using Deepnote. To log in, you will use your **.EDU** email and use the link you get in your mail's inbox. No passwords or anything (so far). 
 
 # Upgrade to Education Plan      
---
+---
     
-If you created your account with an **.EDU** email you already have educational benefits. If you did not use an **.EDU** email, e.g., you used yoru personal email account, you will need to request educational benefits as explained below.
+If you created your account with an **.EDU** email you already have educational benefits. If you did not use an **.EDU** email, e.g., you used your personal email account, you may need to request educational benefits as explained below.
 
 1.  Click on **Billing & usage**.  
 
@@ -105,7 +105,8 @@ If you created your account with an **.EDU** email you already have educational 
 If you want to find out more about the [Educational Plan](https://deepnote.com/docs/edu-verification) or have issues, check out their [information website](https://deepnote.com/docs/edu-verification).  You can also chat with them if you need support or ask questions in their [community forum](https://community.deepnote.com/home).
 
 # Add EconGrowthUG Workspace to your Deepnote account
---
+---
+
 You can use all the notebooks on this website on Deepnote, by adding the [EconGrowthUG Workspace](https://deepnote.com/join-team?token=ef886be7ae3045c) to your account. You will not have editing privileges, but you will be able to copy notebooks to your **EconGrowthUG-My-Projects** Workspace, where you can edit and run code.
 
 1. Log into your [Deepnote](https://deepnote.com/) account.
