@@ -24,7 +24,7 @@ Author: Ömer Özak
 3.  Sign up using your email address. Make sure to follow the instructions and prove you are a human!
 
 <div class="alert alert-block alert-info">
-<b>Tip:</b> You can use your GMAIL  (Recommended) or personal email account. Then use your institutional <b>.EDU<b/> email account to verify your educational status (Select Education in the next screen) and get the free tools and account upgrades (See section after step 9). The only difference (as far as I can tell) is how you log in.
+<b>Tip:</b> You can use your GMAIL  (Recommended) or personal email account. Then use your institutional <b>.EDU</b> email account to verify your educational status (Select Education in the next screen) and get the free tools and account upgrades (See section after step 9). The only difference (as far as I can tell) is how you log in.
 </div>  
 
    ![3-Deepnote-signup-SMU-email.png](../images/pics/canvas_uploaded_img/3-Deepnote-signup-SMU-email.png)        
